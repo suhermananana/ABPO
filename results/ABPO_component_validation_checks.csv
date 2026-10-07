@@ -1,0 +1,12 @@
+Test,Status,Detail
+Coarse search active,PASS,
+Coarse candidate evaluations positive,PASS,
+Coarse score finite,PASS,
+Local refinement finite,PASS,
+Local refinement non-degrading,PASS,0.0
+Power-transfer stage active,PASS,
+Power-transfer score finite,PASS,
+Power-transfer non-degrading,PASS,0.0
+ABPO evaluated on all paired test cases,PASS,
+ABPO NSE finite,PASS,
+ABPO power std finite,PASS,

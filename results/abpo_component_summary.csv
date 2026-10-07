@@ -1,0 +1,4 @@
+Component,N,Mean_Score,Std_Score,Mean_Delta,Total_Candidate_Evaluations
+Coarse beamwidth search,300,16.58013044104206,2.140226870197256,,15110
+Local beamwidth refinement,300,16.7832155838408,2.168712564020655,0.2030851427987378,9066
+Pairwise power-transfer refinement,300,16.796085809545733,2.1586498549618476,0.012870225704935538,36264

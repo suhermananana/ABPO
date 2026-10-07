@@ -1,0 +1,901 @@
+Trajectory_Method,Seed,Scenario_ID,ABPO_Call,Component,Score,Delta_from_previous,Candidate_Evaluations,Accepted_Transfers
+DDPG,105068,test_0000,1,Coarse beamwidth search,16.597921385445204,,20,
+DDPG,105068,test_0000,1,Local beamwidth refinement,17.08473107618052,0.486809690735317,12,
+DDPG,105068,test_0000,1,Pairwise power-transfer refinement,17.097368226077432,0.012637149896910671,48,2.0
+DDPG,105077,test_0001,2,Coarse beamwidth search,17.83924022362083,,30,
+DDPG,105077,test_0001,2,Local beamwidth refinement,17.83924022362083,0.0,18,
+DDPG,105077,test_0001,2,Pairwise power-transfer refinement,17.84182080685411,0.0025805832332785883,72,4.0
+DDPG,105086,test_0002,3,Coarse beamwidth search,15.579832423264586,,45,
+DDPG,105086,test_0002,3,Local beamwidth refinement,15.579832423264586,0.0,27,
+DDPG,105086,test_0002,3,Pairwise power-transfer refinement,15.608715252262783,0.028882828998197496,108,12.0
+DDPG,105095,test_0003,4,Coarse beamwidth search,16.94459575435842,,65,
+DDPG,105095,test_0003,4,Local beamwidth refinement,17.05323255562417,0.10863680126574948,39,
+DDPG,105095,test_0003,4,Pairwise power-transfer refinement,17.05755674438265,0.004324188758481284,156,2.0
+DDPG,105104,test_0004,5,Coarse beamwidth search,19.196854286717656,,35,
+DDPG,105104,test_0004,5,Local beamwidth refinement,19.28341060531941,0.08655631860175461,21,
+DDPG,105104,test_0004,5,Pairwise power-transfer refinement,19.295985691858277,0.012575086538866742,84,12.0
+DDPG,105113,test_0005,6,Coarse beamwidth search,18.555870542529878,,40,
+DDPG,105113,test_0005,6,Local beamwidth refinement,18.555870542529878,0.0,24,
+DDPG,105113,test_0005,6,Pairwise power-transfer refinement,18.557976489380103,0.0021059468502251377,96,5.0
+DDPG,105122,test_0006,7,Coarse beamwidth search,17.798742000208907,,60,
+DDPG,105122,test_0006,7,Local beamwidth refinement,17.798742000208907,0.0,36,
+DDPG,105122,test_0006,7,Pairwise power-transfer refinement,17.80677523183643,0.008033231627521786,144,4.0
+DDPG,105131,test_0007,8,Coarse beamwidth search,18.948292270654797,,85,
+DDPG,105131,test_0007,8,Local beamwidth refinement,18.972803603476766,0.02451133282196949,51,
+DDPG,105131,test_0007,8,Pairwise power-transfer refinement,18.99180009546113,0.018996491984363928,204,22.0
+DDPG,105140,test_0008,9,Coarse beamwidth search,18.003360418998323,,35,
+DDPG,105140,test_0008,9,Local beamwidth refinement,18.38292076592055,0.37956034692222573,21,
+DDPG,105140,test_0008,9,Pairwise power-transfer refinement,18.38292076592055,0.0,84,0.0
+DDPG,105149,test_0009,10,Coarse beamwidth search,17.72758934239245,,45,
+DDPG,105149,test_0009,10,Local beamwidth refinement,18.274318155633292,0.5467288132408434,27,
+DDPG,105149,test_0009,10,Pairwise power-transfer refinement,18.291739278693292,0.0174211230600001,108,14.0
+DDPG,105069,test_0000,11,Coarse beamwidth search,14.932552465564036,,30,
+DDPG,105069,test_0000,11,Local beamwidth refinement,14.932552465564036,0.0,18,
+DDPG,105069,test_0000,11,Pairwise power-transfer refinement,14.959581686541627,0.02702922097759064,72,8.0
+DDPG,105078,test_0001,12,Coarse beamwidth search,16.374693565309247,,30,
+DDPG,105078,test_0001,12,Local beamwidth refinement,16.374693565309247,0.0,18,
+DDPG,105078,test_0001,12,Pairwise power-transfer refinement,16.374693565309247,0.0,72,0.0
+DDPG,105087,test_0002,13,Coarse beamwidth search,17.28884308831546,,55,
+DDPG,105087,test_0002,13,Local beamwidth refinement,17.3638874425566,0.07504435424113964,33,
+DDPG,105087,test_0002,13,Pairwise power-transfer refinement,17.368769426940062,0.0048819843834628784,132,6.0
+DDPG,105096,test_0003,14,Coarse beamwidth search,18.509640212598754,,80,
+DDPG,105096,test_0003,14,Local beamwidth refinement,18.879797263818816,0.3701570512200618,48,
+DDPG,105096,test_0003,14,Pairwise power-transfer refinement,18.879797263818816,0.0,192,0.0
+DDPG,105105,test_0004,15,Coarse beamwidth search,15.576178190988728,,25,
+DDPG,105105,test_0004,15,Local beamwidth refinement,15.580661821521744,0.0044836305330164805,15,
+DDPG,105105,test_0004,15,Pairwise power-transfer refinement,15.59692924557462,0.016267424052875512,60,8.0
+DDPG,105114,test_0005,16,Coarse beamwidth search,12.263821698823683,,30,
+DDPG,105114,test_0005,16,Local beamwidth refinement,12.268806631771177,0.004984932947493803,18,
+DDPG,105114,test_0005,16,Pairwise power-transfer refinement,12.299575250283448,0.030768618512270862,72,6.0
+DDPG,105123,test_0006,17,Coarse beamwidth search,18.8864733622028,,90,
+DDPG,105123,test_0006,17,Local beamwidth refinement,19.141257833607323,0.2547844714045233,54,
+DDPG,105123,test_0006,17,Pairwise power-transfer refinement,19.142124364030515,0.0008665304231918469,216,8.0
+DDPG,105132,test_0007,18,Coarse beamwidth search,17.68005056112087,,75,
+DDPG,105132,test_0007,18,Local beamwidth refinement,17.852698581783457,0.17264802066258866,45,
+DDPG,105132,test_0007,18,Pairwise power-transfer refinement,17.855563586268484,0.002865004485027356,180,11.0
+DDPG,105141,test_0008,19,Coarse beamwidth search,6.262905700001058,,300,
+DDPG,105141,test_0008,19,Local beamwidth refinement,6.262905700001058,0.0,180,
+DDPG,105141,test_0008,19,Pairwise power-transfer refinement,6.33292011587837,0.07001441587731172,720,113.0
+DDPG,105150,test_0009,20,Coarse beamwidth search,15.094541708883037,,40,
+DDPG,105150,test_0009,20,Local beamwidth refinement,15.472603832122001,0.3780621232389638,24,
+DDPG,105150,test_0009,20,Pairwise power-transfer refinement,15.50613217185202,0.033528339730018786,96,12.0
+DDPG,105070,test_0000,21,Coarse beamwidth search,16.47913809438577,,30,
+DDPG,105070,test_0000,21,Local beamwidth refinement,16.945723764229236,0.4665856698434645,18,
+DDPG,105070,test_0000,21,Pairwise power-transfer refinement,16.95599630090297,0.010272536673735289,72,2.0
+DDPG,105079,test_0001,22,Coarse beamwidth search,19.167548764288647,,35,
+DDPG,105079,test_0001,22,Local beamwidth refinement,19.167548764288647,0.0,21,
+DDPG,105079,test_0001,22,Pairwise power-transfer refinement,19.167548764288647,0.0,84,0.0
+DDPG,105088,test_0002,23,Coarse beamwidth search,17.136606199433032,,55,
+DDPG,105088,test_0002,23,Local beamwidth refinement,17.940547211061787,0.8039410116287549,33,
+DDPG,105088,test_0002,23,Pairwise power-transfer refinement,17.963280500628375,0.022733289566588155,132,14.0
+DDPG,105097,test_0003,24,Coarse beamwidth search,16.198735627481472,,55,
+DDPG,105097,test_0003,24,Local beamwidth refinement,16.534812640382857,0.33607701290138436,33,
+DDPG,105097,test_0003,24,Pairwise power-transfer refinement,16.536325282595627,0.0015126422127700323,132,2.0
+DDPG,105106,test_0004,25,Coarse beamwidth search,15.710750328991962,,30,
+DDPG,105106,test_0004,25,Local beamwidth refinement,15.806310741667394,0.09556041267543236,18,
+DDPG,105106,test_0004,25,Pairwise power-transfer refinement,15.830150203955014,0.02383946228762035,72,8.0
+DDPG,105115,test_0005,26,Coarse beamwidth search,16.421790506649778,,35,
+DDPG,105115,test_0005,26,Local beamwidth refinement,16.421790506649778,0.0,21,
+DDPG,105115,test_0005,26,Pairwise power-transfer refinement,16.42844783820318,0.0066573315534022015,84,3.0
+DDPG,105124,test_0006,27,Coarse beamwidth search,16.05929634080921,,50,
+DDPG,105124,test_0006,27,Local beamwidth refinement,16.05929634080921,0.0,30,
+DDPG,105124,test_0006,27,Pairwise power-transfer refinement,16.076729840104125,0.017433499294913446,120,6.0
+DDPG,105133,test_0007,28,Coarse beamwidth search,16.66084484616589,,60,
+DDPG,105133,test_0007,28,Local beamwidth refinement,17.043478690692215,0.38263384452632465,36,
+DDPG,105133,test_0007,28,Pairwise power-transfer refinement,17.063419490636537,0.019940799944322407,144,12.0
+DDPG,105142,test_0008,29,Coarse beamwidth search,17.183072792689003,,35,
+DDPG,105142,test_0008,29,Local beamwidth refinement,17.752083044378555,0.5690102516895514,21,
+DDPG,105142,test_0008,29,Pairwise power-transfer refinement,17.763039878035542,0.010956833656987186,84,4.0
+DDPG,105151,test_0009,30,Coarse beamwidth search,17.5173001244536,,45,
+DDPG,105151,test_0009,30,Local beamwidth refinement,17.647941870710305,0.13064174625670333,27,
+DDPG,105151,test_0009,30,Pairwise power-transfer refinement,17.658949909241034,0.01100803853072918,108,9.0
+TD3,105068,test_0000,31,Coarse beamwidth search,16.597204295605707,,20,
+TD3,105068,test_0000,31,Local beamwidth refinement,17.084096750321798,0.48689245471609155,12,
+TD3,105068,test_0000,31,Pairwise power-transfer refinement,17.096738016350244,0.012641266028445841,48,2.0
+TD3,105077,test_0001,32,Coarse beamwidth search,17.837745911862246,,30,
+TD3,105077,test_0001,32,Local beamwidth refinement,17.837745911862246,0.0,18,
+TD3,105077,test_0001,32,Pairwise power-transfer refinement,17.840326983081766,0.0025810712195202257,72,4.0
+TD3,105086,test_0002,33,Coarse beamwidth search,15.58021058798565,,45,
+TD3,105086,test_0002,33,Local beamwidth refinement,15.58021058798565,0.0,27,
+TD3,105086,test_0002,33,Pairwise power-transfer refinement,15.609140926673895,0.02893033868824446,108,12.0
+TD3,105095,test_0003,34,Coarse beamwidth search,16.944194798200684,,65,
+TD3,105095,test_0003,34,Local beamwidth refinement,17.052674317204286,0.10847951900360187,39,
+TD3,105095,test_0003,34,Pairwise power-transfer refinement,17.056998641841076,0.004324324636790777,156,2.0
+TD3,105104,test_0004,35,Coarse beamwidth search,19.19525308620692,,35,
+TD3,105104,test_0004,35,Local beamwidth refinement,19.282409015199146,0.08715592899222457,21,
+TD3,105104,test_0004,35,Pairwise power-transfer refinement,19.294966309125535,0.012557293926388269,84,12.0
+TD3,105113,test_0005,36,Coarse beamwidth search,18.55595269671344,,40,
+TD3,105113,test_0005,36,Local beamwidth refinement,18.55595269671344,0.0,24,
+TD3,105113,test_0005,36,Pairwise power-transfer refinement,18.558057606270026,0.00210490955658571,96,5.0
+TD3,105122,test_0006,37,Coarse beamwidth search,17.798930286965984,,60,
+TD3,105122,test_0006,37,Local beamwidth refinement,17.798930286965984,0.0,36,
+TD3,105122,test_0006,37,Pairwise power-transfer refinement,17.80696319433794,0.008032907371955389,144,4.0
+TD3,105131,test_0007,38,Coarse beamwidth search,18.94836026903725,,85,
+TD3,105131,test_0007,38,Local beamwidth refinement,18.97286826470026,0.024507995663011428,51,
+TD3,105131,test_0007,38,Pairwise power-transfer refinement,18.991862701374515,0.018994436674255155,204,22.0
+TD3,105140,test_0008,39,Coarse beamwidth search,18.00293436643569,,35,
+TD3,105140,test_0008,39,Local beamwidth refinement,18.382711327522696,0.379776961087007,21,
+TD3,105140,test_0008,39,Pairwise power-transfer refinement,18.382711327522696,0.0,84,0.0
+TD3,105149,test_0009,40,Coarse beamwidth search,17.727327587388686,,45,
+TD3,105149,test_0009,40,Local beamwidth refinement,18.274153356087847,0.5468257686991613,27,
+TD3,105149,test_0009,40,Pairwise power-transfer refinement,18.291568028711577,0.017414672623729643,108,14.0
+TD3,105069,test_0000,41,Coarse beamwidth search,14.932600428759132,,30,
+TD3,105069,test_0000,41,Local beamwidth refinement,14.932600428759132,0.0,18,
+TD3,105069,test_0000,41,Pairwise power-transfer refinement,14.95962803139293,0.027027602633797443,72,8.0
+TD3,105078,test_0001,42,Coarse beamwidth search,16.374578083029956,,30,
+TD3,105078,test_0001,42,Local beamwidth refinement,16.374578083029956,0.0,18,
+TD3,105078,test_0001,42,Pairwise power-transfer refinement,16.374578083029956,0.0,72,0.0
+TD3,105087,test_0002,43,Coarse beamwidth search,17.28797517312469,,55,
+TD3,105087,test_0002,43,Local beamwidth refinement,17.363155455537562,0.07518028241287311,33,
+TD3,105087,test_0002,43,Pairwise power-transfer refinement,17.36804173492185,0.0048862793842872065,132,6.0
+TD3,105096,test_0003,44,Coarse beamwidth search,18.509668141019255,,80,
+TD3,105096,test_0003,44,Local beamwidth refinement,18.87977493656782,0.3701067955485655,48,
+TD3,105096,test_0003,44,Pairwise power-transfer refinement,18.87977493656782,0.0,192,0.0
+TD3,105105,test_0004,45,Coarse beamwidth search,15.575532025504305,,25,
+TD3,105105,test_0004,45,Local beamwidth refinement,15.580015656037324,0.004483630533018257,15,
+TD3,105105,test_0004,45,Pairwise power-transfer refinement,15.596289039723398,0.016273383686074894,60,8.0
+TD3,105114,test_0005,46,Coarse beamwidth search,12.263878739164204,,30,
+TD3,105114,test_0005,46,Local beamwidth refinement,12.268851237832854,0.004972498668649905,18,
+TD3,105114,test_0005,46,Pairwise power-transfer refinement,12.2996206272571,0.030769389424246896,72,6.0
+TD3,105123,test_0006,47,Coarse beamwidth search,18.886436291218377,,90,
+TD3,105123,test_0006,47,Local beamwidth refinement,19.141231317407946,0.2547950261895693,54,
+TD3,105123,test_0006,47,Pairwise power-transfer refinement,19.14209786994061,0.0008665525326634338,216,8.0
+TD3,105132,test_0007,48,Coarse beamwidth search,17.680031868050534,,75,
+TD3,105132,test_0007,48,Local beamwidth refinement,17.852680081875217,0.17264821382468298,45,
+TD3,105132,test_0007,48,Pairwise power-transfer refinement,17.8555456428337,0.0028655609584831154,180,11.0
+TD3,105141,test_0008,49,Coarse beamwidth search,6.262784746761935,,300,
+TD3,105141,test_0008,49,Local beamwidth refinement,6.262784746761935,0.0,180,
+TD3,105141,test_0008,49,Pairwise power-transfer refinement,6.3328030371100485,0.07001829034811369,720,113.0
+TD3,105150,test_0009,50,Coarse beamwidth search,15.094518736851903,,40,
+TD3,105150,test_0009,50,Local beamwidth refinement,15.472570237180388,0.37805150032848545,24,
+TD3,105150,test_0009,50,Pairwise power-transfer refinement,15.506098996791355,0.033528759610966574,96,12.0
+TD3,105070,test_0000,51,Coarse beamwidth search,16.388333774470986,,30,
+TD3,105070,test_0000,51,Local beamwidth refinement,16.491422561000103,0.10308878652911702,18,
+TD3,105070,test_0000,51,Pairwise power-transfer refinement,16.501465980631476,0.010043419631372785,72,2.0
+TD3,105079,test_0001,52,Coarse beamwidth search,17.854849929924338,,30,
+TD3,105079,test_0001,52,Local beamwidth refinement,17.854849929924338,0.0,18,
+TD3,105079,test_0001,52,Pairwise power-transfer refinement,17.854849929924338,0.0,72,0.0
+TD3,105088,test_0002,53,Coarse beamwidth search,15.721968607579347,,60,
+TD3,105088,test_0002,53,Local beamwidth refinement,16.835447099653884,1.1134784920745364,36,
+TD3,105088,test_0002,53,Pairwise power-transfer refinement,16.865802465174433,0.03035536552054907,144,15.0
+TD3,105097,test_0003,54,Coarse beamwidth search,16.197371981470816,,55,
+TD3,105097,test_0003,54,Local beamwidth refinement,16.533372783681354,0.3360008022105383,33,
+TD3,105097,test_0003,54,Pairwise power-transfer refinement,16.534919571800557,0.0015467881192030575,132,2.0
+TD3,105106,test_0004,55,Coarse beamwidth search,14.505129737197356,,25,
+TD3,105106,test_0004,55,Local beamwidth refinement,14.509613367730376,0.004483630533020033,15,
+TD3,105106,test_0004,55,Pairwise power-transfer refinement,14.540322341113992,0.03070897338361611,60,8.0
+TD3,105115,test_0005,56,Coarse beamwidth search,13.51155649477595,,30,
+TD3,105115,test_0005,56,Local beamwidth refinement,13.51155649477595,0.0,18,
+TD3,105115,test_0005,56,Pairwise power-transfer refinement,13.526352839635633,0.01479634485968262,72,6.0
+TD3,105124,test_0006,57,Coarse beamwidth search,16.060254814501878,,50,
+TD3,105124,test_0006,57,Local beamwidth refinement,16.060254814501878,0.0,30,
+TD3,105124,test_0006,57,Pairwise power-transfer refinement,16.077617881235298,0.01736306673342014,120,6.0
+TD3,105133,test_0007,58,Coarse beamwidth search,15.61963128776244,,55,
+TD3,105133,test_0007,58,Local beamwidth refinement,16.044209968927223,0.4245786811647836,33,
+TD3,105133,test_0007,58,Pairwise power-transfer refinement,16.065760529178135,0.021550560250911843,132,11.0
+TD3,105142,test_0008,59,Coarse beamwidth search,13.914015344494041,,30,
+TD3,105142,test_0008,59,Local beamwidth refinement,14.582529555294144,0.6685142108001028,18,
+TD3,105142,test_0008,59,Pairwise power-transfer refinement,14.601715036485231,0.019185481191087206,72,7.0
+TD3,105151,test_0009,60,Coarse beamwidth search,16.033377940879983,,35,
+TD3,105151,test_0009,60,Local beamwidth refinement,16.33274780639878,0.29936986551879485,21,
+TD3,105151,test_0009,60,Pairwise power-transfer refinement,16.351414164708128,0.018666358309349818,84,8.0
+TD3 Twin Critic,105068,test_0000,61,Coarse beamwidth search,11.409032246652677,,60,
+TD3 Twin Critic,105068,test_0000,61,Local beamwidth refinement,11.621682715539952,0.21265046888727568,36,
+TD3 Twin Critic,105068,test_0000,61,Pairwise power-transfer refinement,11.687023566657745,0.0653408511177922,144,19.0
+TD3 Twin Critic,105077,test_0001,62,Coarse beamwidth search,18.106525412494765,,35,
+TD3 Twin Critic,105077,test_0001,62,Local beamwidth refinement,18.106525412494765,0.0,21,
+TD3 Twin Critic,105077,test_0001,62,Pairwise power-transfer refinement,18.107832987779517,0.001307575284752005,84,1.0
+TD3 Twin Critic,105086,test_0002,63,Coarse beamwidth search,15.081336887293341,,45,
+TD3 Twin Critic,105086,test_0002,63,Local beamwidth refinement,15.33191211611435,0.2505752288210079,27,
+TD3 Twin Critic,105086,test_0002,63,Pairwise power-transfer refinement,15.357107015376723,0.025194899262373838,108,13.0
+TD3 Twin Critic,105095,test_0003,64,Coarse beamwidth search,16.5212481036479,,55,
+TD3 Twin Critic,105095,test_0003,64,Local beamwidth refinement,16.832886046238887,0.31163794259098765,33,
+TD3 Twin Critic,105095,test_0003,64,Pairwise power-transfer refinement,16.835770248585362,0.002884202346475462,132,3.0
+TD3 Twin Critic,105104,test_0004,65,Coarse beamwidth search,18.2211869164112,,30,
+TD3 Twin Critic,105104,test_0004,65,Local beamwidth refinement,18.22492327518871,0.0037363587775125495,18,
+TD3 Twin Critic,105104,test_0004,65,Pairwise power-transfer refinement,18.225685004577837,0.0007617293891257759,72,3.0
+TD3 Twin Critic,105113,test_0005,66,Coarse beamwidth search,17.297141891254917,,40,
+TD3 Twin Critic,105113,test_0005,66,Local beamwidth refinement,17.90367830594454,0.6065364146896215,24,
+TD3 Twin Critic,105113,test_0005,66,Pairwise power-transfer refinement,17.910265372306448,0.006587066361909422,96,2.0
+TD3 Twin Critic,105122,test_0006,67,Coarse beamwidth search,18.448739019373416,,80,
+TD3 Twin Critic,105122,test_0006,67,Local beamwidth refinement,18.448739019373416,0.0,48,
+TD3 Twin Critic,105122,test_0006,67,Pairwise power-transfer refinement,18.4529052803791,0.0041662610056825145,192,2.0
+TD3 Twin Critic,105131,test_0007,68,Coarse beamwidth search,19.173622271251077,,100,
+TD3 Twin Critic,105131,test_0007,68,Local beamwidth refinement,19.182036441615896,0.008414170364819284,60,
+TD3 Twin Critic,105131,test_0007,68,Pairwise power-transfer refinement,19.182575592022758,0.0005391504068619213,240,8.0
+TD3 Twin Critic,105140,test_0008,69,Coarse beamwidth search,16.116200690116106,,35,
+TD3 Twin Critic,105140,test_0008,69,Local beamwidth refinement,16.14558666526406,0.029385975147953047,21,
+TD3 Twin Critic,105140,test_0008,69,Pairwise power-transfer refinement,16.156682116522443,0.011095451258384514,84,3.0
+TD3 Twin Critic,105149,test_0009,70,Coarse beamwidth search,18.47071112107998,,55,
+TD3 Twin Critic,105149,test_0009,70,Local beamwidth refinement,18.741369736184865,0.2706586151048853,33,
+TD3 Twin Critic,105149,test_0009,70,Pairwise power-transfer refinement,18.742537388684422,0.0011676524995571924,132,5.0
+TD3 Twin Critic,105069,test_0000,71,Coarse beamwidth search,14.932642307484832,,30,
+TD3 Twin Critic,105069,test_0000,71,Local beamwidth refinement,14.932642307484832,0.0,18,
+TD3 Twin Critic,105069,test_0000,71,Pairwise power-transfer refinement,14.9596705069938,0.027028199508968953,72,8.0
+TD3 Twin Critic,105078,test_0001,72,Coarse beamwidth search,16.37467606365777,,30,
+TD3 Twin Critic,105078,test_0001,72,Local beamwidth refinement,16.37467606365777,0.0,18,
+TD3 Twin Critic,105078,test_0001,72,Pairwise power-transfer refinement,16.37467606365777,0.0,72,0.0
+TD3 Twin Critic,105087,test_0002,73,Coarse beamwidth search,17.284260956996217,,55,
+TD3 Twin Critic,105087,test_0002,73,Local beamwidth refinement,17.35946243269881,0.07520147570259184,33,
+TD3 Twin Critic,105087,test_0002,73,Pairwise power-transfer refinement,17.364379444675137,0.004917011976328212,132,6.0
+TD3 Twin Critic,105096,test_0003,74,Coarse beamwidth search,18.50992391090938,,80,
+TD3 Twin Critic,105096,test_0003,74,Local beamwidth refinement,18.879879595724987,0.3699556848156078,48,
+TD3 Twin Critic,105096,test_0003,74,Pairwise power-transfer refinement,18.879879595724987,0.0,192,0.0
+TD3 Twin Critic,105105,test_0004,75,Coarse beamwidth search,15.576157549639566,,25,
+TD3 Twin Critic,105105,test_0004,75,Local beamwidth refinement,15.580641180172586,0.004483630533020033,15,
+TD3 Twin Critic,105105,test_0004,75,Pairwise power-transfer refinement,15.596908675528377,0.016267495355791084,60,8.0
+TD3 Twin Critic,105114,test_0005,76,Coarse beamwidth search,12.263825564434427,,30,
+TD3 Twin Critic,105114,test_0005,76,Local beamwidth refinement,12.268809676756554,0.004984112322127032,18,
+TD3 Twin Critic,105114,test_0005,76,Pairwise power-transfer refinement,12.299578315685546,0.03076863892899162,72,6.0
+TD3 Twin Critic,105123,test_0006,77,Coarse beamwidth search,18.88647214017703,,90,
+TD3 Twin Critic,105123,test_0006,77,Local beamwidth refinement,19.14125732173578,0.2547851815587485,54,
+TD3 Twin Critic,105123,test_0006,77,Pairwise power-transfer refinement,19.14212386556775,0.0008665438319717111,216,8.0
+TD3 Twin Critic,105132,test_0007,78,Coarse beamwidth search,17.680056532799846,,75,
+TD3 Twin Critic,105132,test_0007,78,Local beamwidth refinement,17.852707560245573,0.17265102744572758,45,
+TD3 Twin Critic,105132,test_0007,78,Pairwise power-transfer refinement,17.85557254740705,0.002864987161476762,180,11.0
+TD3 Twin Critic,105141,test_0008,79,Coarse beamwidth search,6.262876448479295,,300,
+TD3 Twin Critic,105141,test_0008,79,Local beamwidth refinement,6.262876448479295,0.0,180,
+TD3 Twin Critic,105141,test_0008,79,Pairwise power-transfer refinement,6.33289170125805,0.07001525277875498,720,113.0
+TD3 Twin Critic,105150,test_0009,80,Coarse beamwidth search,15.094575146536773,,40,
+TD3 Twin Critic,105150,test_0009,80,Local beamwidth refinement,15.472609376512281,0.3780342299755084,24,
+TD3 Twin Critic,105150,test_0009,80,Pairwise power-transfer refinement,15.506137731102136,0.033528354589854814,96,12.0
+TD3 Twin Critic,105070,test_0000,81,Coarse beamwidth search,16.479469989110395,,30,
+TD3 Twin Critic,105070,test_0000,81,Local beamwidth refinement,16.94578427819157,0.46631428908117556,18,
+TD3 Twin Critic,105070,test_0000,81,Pairwise power-transfer refinement,16.95605718366376,0.010272905472188398,72,2.0
+TD3 Twin Critic,105079,test_0001,82,Coarse beamwidth search,19.167724995441123,,35,
+TD3 Twin Critic,105079,test_0001,82,Local beamwidth refinement,19.167724995441123,0.0,21,
+TD3 Twin Critic,105079,test_0001,82,Pairwise power-transfer refinement,19.167724995441123,0.0,84,0.0
+TD3 Twin Critic,105088,test_0002,83,Coarse beamwidth search,17.137400104224522,,55,
+TD3 Twin Critic,105088,test_0002,83,Local beamwidth refinement,17.940663357239305,0.8032632530147836,33,
+TD3 Twin Critic,105088,test_0002,83,Pairwise power-transfer refinement,17.963398958593665,0.022735601354359147,132,14.0
+TD3 Twin Critic,105097,test_0003,84,Coarse beamwidth search,16.19872923259226,,55,
+TD3 Twin Critic,105097,test_0003,84,Local beamwidth refinement,16.534805211948182,0.3360759793559218,33,
+TD3 Twin Critic,105097,test_0003,84,Pairwise power-transfer refinement,16.536318101672396,0.0015128897242142614,132,2.0
+TD3 Twin Critic,105106,test_0004,85,Coarse beamwidth search,15.71026479379409,,30,
+TD3 Twin Critic,105106,test_0004,85,Local beamwidth refinement,15.80599491394674,0.09573012015265014,18,
+TD3 Twin Critic,105106,test_0004,85,Pairwise power-transfer refinement,15.829830897679692,0.02383598373295115,72,8.0
+TD3 Twin Critic,105115,test_0005,86,Coarse beamwidth search,16.421760196338354,,35,
+TD3 Twin Critic,105115,test_0005,86,Local beamwidth refinement,16.421760196338354,0.0,21,
+TD3 Twin Critic,105115,test_0005,86,Pairwise power-transfer refinement,16.428417673832104,0.006657477493750008,84,3.0
+TD3 Twin Critic,105124,test_0006,87,Coarse beamwidth search,16.05929543547866,,50,
+TD3 Twin Critic,105124,test_0006,87,Local beamwidth refinement,16.05929543547866,0.0,30,
+TD3 Twin Critic,105124,test_0006,87,Pairwise power-transfer refinement,16.07672891660233,0.017433481123671157,120,6.0
+TD3 Twin Critic,105133,test_0007,88,Coarse beamwidth search,16.660890422597554,,60,
+TD3 Twin Critic,105133,test_0007,88,Local beamwidth refinement,17.04353348634086,0.3826430637433056,36,
+TD3 Twin Critic,105133,test_0007,88,Pairwise power-transfer refinement,17.063474208767545,0.019940722426685653,144,12.0
+TD3 Twin Critic,105142,test_0008,89,Coarse beamwidth search,17.183034277114547,,35,
+TD3 Twin Critic,105142,test_0008,89,Local beamwidth refinement,17.75205389568145,0.5690196185669016,21,
+TD3 Twin Critic,105142,test_0008,89,Pairwise power-transfer refinement,17.763010980165998,0.010957084484548574,84,4.0
+TD3 Twin Critic,105151,test_0009,90,Coarse beamwidth search,17.51731493034171,,45,
+TD3 Twin Critic,105151,test_0009,90,Local beamwidth refinement,17.647863855703715,0.13054892536200668,27,
+TD3 Twin Critic,105151,test_0009,90,Pairwise power-transfer refinement,17.658871689396776,0.011007833693060576,108,9.0
+TD3 Target Policy Smoothing,105068,test_0000,91,Coarse beamwidth search,11.40903245060963,,60,
+TD3 Target Policy Smoothing,105068,test_0000,91,Local beamwidth refinement,11.62168317320969,0.2126507226000598,36,
+TD3 Target Policy Smoothing,105068,test_0000,91,Pairwise power-transfer refinement,11.68702401933308,0.06534084612339086,144,19.0
+TD3 Target Policy Smoothing,105077,test_0001,92,Coarse beamwidth search,18.106525219102664,,35,
+TD3 Target Policy Smoothing,105077,test_0001,92,Local beamwidth refinement,18.106525219102664,0.0,21,
+TD3 Target Policy Smoothing,105077,test_0001,92,Pairwise power-transfer refinement,18.107832789425032,0.0013075703223677237,84,1.0
+TD3 Target Policy Smoothing,105086,test_0002,93,Coarse beamwidth search,15.081336486987945,,45,
+TD3 Target Policy Smoothing,105086,test_0002,93,Local beamwidth refinement,15.331912525130093,0.2505760381421478,27,
+TD3 Target Policy Smoothing,105086,test_0002,93,Pairwise power-transfer refinement,15.357107428453787,0.025194903323694007,108,13.0
+TD3 Target Policy Smoothing,105095,test_0003,94,Coarse beamwidth search,16.5212481036479,,55,
+TD3 Target Policy Smoothing,105095,test_0003,94,Local beamwidth refinement,16.832886046238887,0.31163794259098765,33,
+TD3 Target Policy Smoothing,105095,test_0003,94,Pairwise power-transfer refinement,16.835770248585362,0.002884202346475462,132,3.0
+TD3 Target Policy Smoothing,105104,test_0004,95,Coarse beamwidth search,18.221187592352667,,30,
+TD3 Target Policy Smoothing,105104,test_0004,95,Local beamwidth refinement,18.224923951130183,0.0037363587775161022,18,
+TD3 Target Policy Smoothing,105104,test_0004,95,Pairwise power-transfer refinement,18.22568567990712,0.0007617287769363656,72,3.0
+TD3 Target Policy Smoothing,105113,test_0005,96,Coarse beamwidth search,17.297141891254917,,40,
+TD3 Target Policy Smoothing,105113,test_0005,96,Local beamwidth refinement,17.90367830594454,0.6065364146896215,24,
+TD3 Target Policy Smoothing,105113,test_0005,96,Pairwise power-transfer refinement,17.910265372306448,0.006587066361909422,96,2.0
+TD3 Target Policy Smoothing,105122,test_0006,97,Coarse beamwidth search,18.448739019373416,,80,
+TD3 Target Policy Smoothing,105122,test_0006,97,Local beamwidth refinement,18.448739019373416,0.0,48,
+TD3 Target Policy Smoothing,105122,test_0006,97,Pairwise power-transfer refinement,18.4529052803791,0.0041662610056825145,192,2.0
+TD3 Target Policy Smoothing,105131,test_0007,98,Coarse beamwidth search,19.173622271251077,,100,
+TD3 Target Policy Smoothing,105131,test_0007,98,Local beamwidth refinement,19.182036441615896,0.008414170364819284,60,
+TD3 Target Policy Smoothing,105131,test_0007,98,Pairwise power-transfer refinement,19.182575592022758,0.0005391504068619213,240,8.0
+TD3 Target Policy Smoothing,105140,test_0008,99,Coarse beamwidth search,16.116200690116106,,35,
+TD3 Target Policy Smoothing,105140,test_0008,99,Local beamwidth refinement,16.14558666526406,0.029385975147953047,21,
+TD3 Target Policy Smoothing,105140,test_0008,99,Pairwise power-transfer refinement,16.156682116522443,0.011095451258384514,84,3.0
+TD3 Target Policy Smoothing,105149,test_0009,100,Coarse beamwidth search,18.47071112107998,,55,
+TD3 Target Policy Smoothing,105149,test_0009,100,Local beamwidth refinement,18.741369736184865,0.2706586151048853,33,
+TD3 Target Policy Smoothing,105149,test_0009,100,Pairwise power-transfer refinement,18.742537388684422,0.0011676524995571924,132,5.0
+TD3 Target Policy Smoothing,105069,test_0000,101,Coarse beamwidth search,14.932648388240379,,30,
+TD3 Target Policy Smoothing,105069,test_0000,101,Local beamwidth refinement,14.932648388240379,0.0,18,
+TD3 Target Policy Smoothing,105069,test_0000,101,Pairwise power-transfer refinement,14.959676517243935,0.02702812900355589,72,8.0
+TD3 Target Policy Smoothing,105078,test_0001,102,Coarse beamwidth search,16.374683617992904,,30,
+TD3 Target Policy Smoothing,105078,test_0001,102,Local beamwidth refinement,16.374683617992904,0.0,18,
+TD3 Target Policy Smoothing,105078,test_0001,102,Pairwise power-transfer refinement,16.374683617992904,0.0,72,0.0
+TD3 Target Policy Smoothing,105087,test_0002,103,Coarse beamwidth search,17.28504570137162,,55,
+TD3 Target Policy Smoothing,105087,test_0002,103,Local beamwidth refinement,17.36023239333517,0.07518669196355177,33,
+TD3 Target Policy Smoothing,105087,test_0002,103,Pairwise power-transfer refinement,17.365143116547006,0.004910723211835943,132,6.0
+TD3 Target Policy Smoothing,105096,test_0003,104,Coarse beamwidth search,18.509837668234404,,80,
+TD3 Target Policy Smoothing,105096,test_0003,104,Local beamwidth refinement,18.8798500598674,0.37001239163299715,48,
+TD3 Target Policy Smoothing,105096,test_0003,104,Pairwise power-transfer refinement,18.8798500598674,0.0,192,0.0
+TD3 Target Policy Smoothing,105105,test_0004,105,Coarse beamwidth search,15.576112807146256,,25,
+TD3 Target Policy Smoothing,105105,test_0004,105,Local beamwidth refinement,15.580596437679276,0.004483630533020033,15,
+TD3 Target Policy Smoothing,105105,test_0004,105,Pairwise power-transfer refinement,15.5968646395441,0.016268201864823695,60,8.0
+TD3 Target Policy Smoothing,105114,test_0005,106,Coarse beamwidth search,12.263821702607117,,30,
+TD3 Target Policy Smoothing,105114,test_0005,106,Local beamwidth refinement,12.268805406621576,0.004983704014458468,18,
+TD3 Target Policy Smoothing,105114,test_0005,106,Pairwise power-transfer refinement,12.299574047109841,0.03076864048826522,72,6.0
+TD3 Target Policy Smoothing,105123,test_0006,107,Coarse beamwidth search,18.886470528151705,,90,
+TD3 Target Policy Smoothing,105123,test_0006,107,Local beamwidth refinement,19.141255772225485,0.2547852440737799,54,
+TD3 Target Policy Smoothing,105123,test_0006,107,Pairwise power-transfer refinement,19.142122292047357,0.0008665198218729131,216,8.0
+TD3 Target Policy Smoothing,105132,test_0007,108,Coarse beamwidth search,17.68006205769251,,75,
+TD3 Target Policy Smoothing,105132,test_0007,108,Local beamwidth refinement,17.85271433696936,0.1726522792768499,45,
+TD3 Target Policy Smoothing,105132,test_0007,108,Pairwise power-transfer refinement,17.855579296205924,0.0028649592365646015,180,11.0
+TD3 Target Policy Smoothing,105141,test_0008,109,Coarse beamwidth search,6.262873341872905,,300,
+TD3 Target Policy Smoothing,105141,test_0008,109,Local beamwidth refinement,6.262873341872905,0.0,180,
+TD3 Target Policy Smoothing,105141,test_0008,109,Pairwise power-transfer refinement,6.332888552434127,0.0700152105612224,720,113.0
+TD3 Target Policy Smoothing,105150,test_0009,110,Coarse beamwidth search,15.094581014586762,,40,
+TD3 Target Policy Smoothing,105150,test_0009,110,Local beamwidth refinement,15.472611832643802,0.37803081805703975,24,
+TD3 Target Policy Smoothing,105150,test_0009,110,Pairwise power-transfer refinement,15.506140236572818,0.0335284039290169,96,12.0
+TD3 Target Policy Smoothing,105070,test_0000,111,Coarse beamwidth search,16.479469863469493,,30,
+TD3 Target Policy Smoothing,105070,test_0000,111,Local beamwidth refinement,16.945784072021826,0.4663142085523333,18,
+TD3 Target Policy Smoothing,105070,test_0000,111,Pairwise power-transfer refinement,16.95605697722311,0.010272905201283322,72,2.0
+TD3 Target Policy Smoothing,105079,test_0001,112,Coarse beamwidth search,19.167724645096232,,35,
+TD3 Target Policy Smoothing,105079,test_0001,112,Local beamwidth refinement,19.167724645096232,0.0,21,
+TD3 Target Policy Smoothing,105079,test_0001,112,Pairwise power-transfer refinement,19.167724645096232,0.0,84,0.0
+TD3 Target Policy Smoothing,105088,test_0002,113,Coarse beamwidth search,17.137397659907577,,55,
+TD3 Target Policy Smoothing,105088,test_0002,113,Local beamwidth refinement,17.940662785160455,0.803265125252878,33,
+TD3 Target Policy Smoothing,105088,test_0002,113,Pairwise power-transfer refinement,17.963398382773388,0.022735597612932423,132,14.0
+TD3 Target Policy Smoothing,105097,test_0003,114,Coarse beamwidth search,16.198729094748533,,55,
+TD3 Target Policy Smoothing,105097,test_0003,114,Local beamwidth refinement,16.534805016855213,0.33607592210668,33,
+TD3 Target Policy Smoothing,105097,test_0003,114,Pairwise power-transfer refinement,16.536317905905182,0.0015128890499696013,132,2.0
+TD3 Target Policy Smoothing,105106,test_0004,115,Coarse beamwidth search,15.710280140746718,,30,
+TD3 Target Policy Smoothing,105106,test_0004,115,Local beamwidth refinement,15.806008022822681,0.09572788207596261,18,
+TD3 Target Policy Smoothing,105106,test_0004,115,Pairwise power-transfer refinement,15.829843995210759,0.023835972388077664,72,8.0
+TD3 Target Policy Smoothing,105115,test_0005,116,Coarse beamwidth search,16.421760196338354,,35,
+TD3 Target Policy Smoothing,105115,test_0005,116,Local beamwidth refinement,16.421760196338354,0.0,21,
+TD3 Target Policy Smoothing,105115,test_0005,116,Pairwise power-transfer refinement,16.428417673832104,0.006657477493750008,84,3.0
+TD3 Target Policy Smoothing,105124,test_0006,117,Coarse beamwidth search,16.05929543547866,,50,
+TD3 Target Policy Smoothing,105124,test_0006,117,Local beamwidth refinement,16.05929543547866,0.0,30,
+TD3 Target Policy Smoothing,105124,test_0006,117,Pairwise power-transfer refinement,16.07672891660233,0.017433481123671157,120,6.0
+TD3 Target Policy Smoothing,105133,test_0007,118,Coarse beamwidth search,16.66089007977431,,60,
+TD3 Target Policy Smoothing,105133,test_0007,118,Local beamwidth refinement,17.04353255106999,0.3826424712956822,36,
+TD3 Target Policy Smoothing,105133,test_0007,118,Pairwise power-transfer refinement,17.063473268414366,0.01994071734437597,144,12.0
+TD3 Target Policy Smoothing,105142,test_0008,119,Coarse beamwidth search,17.183034191183868,,35,
+TD3 Target Policy Smoothing,105142,test_0008,119,Local beamwidth refinement,17.75205380975077,0.5690196185669016,21,
+TD3 Target Policy Smoothing,105142,test_0008,119,Pairwise power-transfer refinement,17.76301089423532,0.010957084484552126,84,4.0
+TD3 Target Policy Smoothing,105151,test_0009,120,Coarse beamwidth search,17.517314940700267,,45,
+TD3 Target Policy Smoothing,105151,test_0009,120,Local beamwidth refinement,17.647863878338697,0.13054893763843012,27,
+TD3 Target Policy Smoothing,105151,test_0009,120,Pairwise power-transfer refinement,17.65887171250018,0.011007834161482322,108,9.0
+TD3 Delayed Actor Update,105068,test_0000,121,Coarse beamwidth search,16.59704230091903,,20,
+TD3 Delayed Actor Update,105068,test_0000,121,Local beamwidth refinement,17.08366886835561,0.4866265674365806,12,
+TD3 Delayed Actor Update,105068,test_0000,121,Pairwise power-transfer refinement,17.096313964722498,0.012645096366888708,48,2.0
+TD3 Delayed Actor Update,105077,test_0001,122,Coarse beamwidth search,17.836643725646216,,30,
+TD3 Delayed Actor Update,105077,test_0001,122,Local beamwidth refinement,17.836643725646216,0.0,18,
+TD3 Delayed Actor Update,105077,test_0001,122,Pairwise power-transfer refinement,17.83922200014451,0.002578274498294064,72,4.0
+TD3 Delayed Actor Update,105086,test_0002,123,Coarse beamwidth search,15.580575278033747,,45,
+TD3 Delayed Actor Update,105086,test_0002,123,Local beamwidth refinement,15.580575278033747,0.0,27,
+TD3 Delayed Actor Update,105086,test_0002,123,Pairwise power-transfer refinement,15.60954246093987,0.028967182906123767,108,12.0
+TD3 Delayed Actor Update,105095,test_0003,124,Coarse beamwidth search,16.943863576426473,,65,
+TD3 Delayed Actor Update,105095,test_0003,124,Local beamwidth refinement,17.052203860177357,0.10834028375088423,39,
+TD3 Delayed Actor Update,105095,test_0003,124,Pairwise power-transfer refinement,17.056528007890407,0.004324147713049342,156,2.0
+TD3 Delayed Actor Update,105104,test_0004,125,Coarse beamwidth search,19.193678472499716,,35,
+TD3 Delayed Actor Update,105104,test_0004,125,Local beamwidth refinement,19.281758669546974,0.08808019704725822,21,
+TD3 Delayed Actor Update,105104,test_0004,125,Pairwise power-transfer refinement,19.29428722909423,0.01252855954725618,84,12.0
+TD3 Delayed Actor Update,105113,test_0005,126,Coarse beamwidth search,18.556165738042647,,40,
+TD3 Delayed Actor Update,105113,test_0005,126,Local beamwidth refinement,18.556165738042647,0.0,24,
+TD3 Delayed Actor Update,105113,test_0005,126,Pairwise power-transfer refinement,18.55826850267028,0.002102764627633036,96,5.0
+TD3 Delayed Actor Update,105122,test_0006,127,Coarse beamwidth search,17.799340953148747,,60,
+TD3 Delayed Actor Update,105122,test_0006,127,Local beamwidth refinement,17.799340953148747,0.0,36,
+TD3 Delayed Actor Update,105122,test_0006,127,Pairwise power-transfer refinement,17.807373091231415,0.008032138082668894,144,4.0
+TD3 Delayed Actor Update,105131,test_0007,128,Coarse beamwidth search,18.94872699959874,,85,
+TD3 Delayed Actor Update,105131,test_0007,128,Local beamwidth refinement,18.973225006923382,0.02449800732464169,51,
+TD3 Delayed Actor Update,105131,test_0007,128,Pairwise power-transfer refinement,18.99221573134308,0.01899072441969807,204,22.0
+TD3 Delayed Actor Update,105140,test_0008,129,Coarse beamwidth search,18.00239597185178,,35,
+TD3 Delayed Actor Update,105140,test_0008,129,Local beamwidth refinement,18.38240749924401,0.3800115273922309,21,
+TD3 Delayed Actor Update,105140,test_0008,129,Pairwise power-transfer refinement,18.38240749924401,0.0,84,0.0
+TD3 Delayed Actor Update,105149,test_0009,130,Coarse beamwidth search,17.727314356619022,,45,
+TD3 Delayed Actor Update,105149,test_0009,130,Local beamwidth refinement,18.273980343943112,0.54666598732409,27,
+TD3 Delayed Actor Update,105149,test_0009,130,Pairwise power-transfer refinement,18.291384596779523,0.01740425283641045,108,14.0
+TD3 Delayed Actor Update,105069,test_0000,131,Coarse beamwidth search,18.16227134421023,,40,
+TD3 Delayed Actor Update,105069,test_0000,131,Local beamwidth refinement,18.409005277170195,0.24673393295996604,24,
+TD3 Delayed Actor Update,105069,test_0000,131,Pairwise power-transfer refinement,18.409005277170195,0.0,96,0.0
+TD3 Delayed Actor Update,105078,test_0001,132,Coarse beamwidth search,17.865971193330836,,35,
+TD3 Delayed Actor Update,105078,test_0001,132,Local beamwidth refinement,17.865971193330836,0.0,21,
+TD3 Delayed Actor Update,105078,test_0001,132,Pairwise power-transfer refinement,17.865971193330836,0.0,84,0.0
+TD3 Delayed Actor Update,105087,test_0002,133,Coarse beamwidth search,18.489534764691747,,75,
+TD3 Delayed Actor Update,105087,test_0002,133,Local beamwidth refinement,18.64842384102449,0.1588890763327413,45,
+TD3 Delayed Actor Update,105087,test_0002,133,Pairwise power-transfer refinement,18.653129507324532,0.004705666300043987,180,12.0
+TD3 Delayed Actor Update,105096,test_0003,134,Coarse beamwidth search,17.682841387229498,,65,
+TD3 Delayed Actor Update,105096,test_0003,134,Local beamwidth refinement,18.02365772836964,0.34081634114014037,39,
+TD3 Delayed Actor Update,105096,test_0003,134,Pairwise power-transfer refinement,18.027370694406105,0.0037129660364669803,156,3.0
+TD3 Delayed Actor Update,105105,test_0004,135,Coarse beamwidth search,15.200258749392358,,25,
+TD3 Delayed Actor Update,105105,test_0004,135,Local beamwidth refinement,15.204742379925378,0.004483630533020033,15,
+TD3 Delayed Actor Update,105105,test_0004,135,Pairwise power-transfer refinement,15.225657534696825,0.020915154771447675,60,9.0
+TD3 Delayed Actor Update,105114,test_0005,136,Coarse beamwidth search,12.746504843637094,,35,
+TD3 Delayed Actor Update,105114,test_0005,136,Local beamwidth refinement,12.746504843637094,0.0,21,
+TD3 Delayed Actor Update,105114,test_0005,136,Pairwise power-transfer refinement,12.768411021096568,0.021906177459474208,84,7.0
+TD3 Delayed Actor Update,105123,test_0006,137,Coarse beamwidth search,17.19184283758232,,65,
+TD3 Delayed Actor Update,105123,test_0006,137,Local beamwidth refinement,17.36940711967216,0.17756428208983976,39,
+TD3 Delayed Actor Update,105123,test_0006,137,Pairwise power-transfer refinement,17.372413531374637,0.003006411702475731,156,2.0
+TD3 Delayed Actor Update,105132,test_0007,138,Coarse beamwidth search,15.299610434855042,,55,
+TD3 Delayed Actor Update,105132,test_0007,138,Local beamwidth refinement,15.658141633262078,0.35853119840703584,33,
+TD3 Delayed Actor Update,105132,test_0007,138,Pairwise power-transfer refinement,15.670947798762587,0.012806165500508726,132,10.0
+TD3 Delayed Actor Update,105141,test_0008,139,Coarse beamwidth search,11.239232255472961,,45,
+TD3 Delayed Actor Update,105141,test_0008,139,Local beamwidth refinement,11.239232255472961,0.0,27,
+TD3 Delayed Actor Update,105141,test_0008,139,Pairwise power-transfer refinement,11.255900973862921,0.01666871838996009,108,13.0
+TD3 Delayed Actor Update,105150,test_0009,140,Coarse beamwidth search,15.3366334401864,,35,
+TD3 Delayed Actor Update,105150,test_0009,140,Local beamwidth refinement,16.2563107455855,0.9196773053990981,21,
+TD3 Delayed Actor Update,105150,test_0009,140,Pairwise power-transfer refinement,16.26848372882877,0.012172983243271318,84,5.0
+TD3 Delayed Actor Update,105070,test_0000,141,Coarse beamwidth search,16.479018759738928,,30,
+TD3 Delayed Actor Update,105070,test_0000,141,Local beamwidth refinement,16.94566849866027,0.466649738921344,18,
+TD3 Delayed Actor Update,105070,test_0000,141,Pairwise power-transfer refinement,16.955940859661045,0.01027236100077289,72,2.0
+TD3 Delayed Actor Update,105079,test_0001,142,Coarse beamwidth search,19.16756775466421,,35,
+TD3 Delayed Actor Update,105079,test_0001,142,Local beamwidth refinement,19.16756775466421,0.0,21,
+TD3 Delayed Actor Update,105079,test_0001,142,Pairwise power-transfer refinement,19.16756775466421,0.0,84,0.0
+TD3 Delayed Actor Update,105088,test_0002,143,Coarse beamwidth search,17.136799646884484,,55,
+TD3 Delayed Actor Update,105088,test_0002,143,Local beamwidth refinement,17.940568713035574,0.8037690661510908,33,
+TD3 Delayed Actor Update,105088,test_0002,143,Pairwise power-transfer refinement,17.963302141975337,0.02273342893976249,132,14.0
+TD3 Delayed Actor Update,105097,test_0003,144,Coarse beamwidth search,16.19843540699095,,55,
+TD3 Delayed Actor Update,105097,test_0003,144,Local beamwidth refinement,16.534443944491795,0.33600853750084525,33,
+TD3 Delayed Actor Update,105097,test_0003,144,Pairwise power-transfer refinement,16.535956840941484,0.0015128964496895492,132,2.0
+TD3 Delayed Actor Update,105106,test_0004,145,Coarse beamwidth search,15.712850313856238,,30,
+TD3 Delayed Actor Update,105106,test_0004,145,Local beamwidth refinement,15.808386145204977,0.09553583134873911,18,
+TD3 Delayed Actor Update,105106,test_0004,145,Pairwise power-transfer refinement,15.832225907726716,0.023839762521738805,72,8.0
+TD3 Delayed Actor Update,105115,test_0005,146,Coarse beamwidth search,16.421800640806055,,35,
+TD3 Delayed Actor Update,105115,test_0005,146,Local beamwidth refinement,16.421800640806055,0.0,21,
+TD3 Delayed Actor Update,105115,test_0005,146,Pairwise power-transfer refinement,16.428458142248417,0.0066575014423619905,84,3.0
+TD3 Delayed Actor Update,105124,test_0006,147,Coarse beamwidth search,16.059269765070336,,50,
+TD3 Delayed Actor Update,105124,test_0006,147,Local beamwidth refinement,16.059269765070336,0.0,30,
+TD3 Delayed Actor Update,105124,test_0006,147,Pairwise power-transfer refinement,16.076703361793882,0.01743359672354572,120,6.0
+TD3 Delayed Actor Update,105133,test_0007,148,Coarse beamwidth search,16.660851817639756,,60,
+TD3 Delayed Actor Update,105133,test_0007,148,Local beamwidth refinement,17.04311741549935,0.38226559785959324,36,
+TD3 Delayed Actor Update,105133,test_0007,148,Pairwise power-transfer refinement,17.06305678750568,0.019939372006330558,144,12.0
+TD3 Delayed Actor Update,105142,test_0008,149,Coarse beamwidth search,17.183053863380252,,35,
+TD3 Delayed Actor Update,105142,test_0008,149,Local beamwidth refinement,17.752096905597465,0.5690430422172135,21,
+TD3 Delayed Actor Update,105142,test_0008,149,Pairwise power-transfer refinement,17.763053072607736,0.01095616701027069,84,4.0
+TD3 Delayed Actor Update,105151,test_0009,150,Coarse beamwidth search,17.517181950696823,,45,
+TD3 Delayed Actor Update,105151,test_0009,150,Local beamwidth refinement,17.647972838285284,0.1307908875884607,27,
+TD3 Delayed Actor Update,105151,test_0009,150,Pairwise power-transfer refinement,17.65898084232963,0.011008004044345654,108,9.0
+TD3 Soft Target Update,105068,test_0000,151,Coarse beamwidth search,16.597088996223373,,20,
+TD3 Soft Target Update,105068,test_0000,151,Local beamwidth refinement,17.08381638146372,0.4867273852403464,12,
+TD3 Soft Target Update,105068,test_0000,151,Pairwise power-transfer refinement,17.096460160700115,0.012643779236395147,48,2.0
+TD3 Soft Target Update,105077,test_0001,152,Coarse beamwidth search,17.83725520758665,,30,
+TD3 Soft Target Update,105077,test_0001,152,Local beamwidth refinement,17.83725520758665,0.0,18,
+TD3 Soft Target Update,105077,test_0001,152,Pairwise power-transfer refinement,17.839833464076303,0.002578256489652375,72,4.0
+TD3 Soft Target Update,105086,test_0002,153,Coarse beamwidth search,15.580491454638146,,45,
+TD3 Soft Target Update,105086,test_0002,153,Local beamwidth refinement,15.580491454638146,0.0,27,
+TD3 Soft Target Update,105086,test_0002,153,Pairwise power-transfer refinement,15.609468768034045,0.02897731339589882,108,12.0
+TD3 Soft Target Update,105095,test_0003,154,Coarse beamwidth search,16.943918088076266,,65,
+TD3 Soft Target Update,105095,test_0003,154,Local beamwidth refinement,17.052267466323777,0.10834937824751023,39,
+TD3 Soft Target Update,105095,test_0003,154,Pairwise power-transfer refinement,17.056591599221374,0.004324132897597366,156,2.0
+TD3 Soft Target Update,105104,test_0004,155,Coarse beamwidth search,19.194897464507733,,35,
+TD3 Soft Target Update,105104,test_0004,155,Local beamwidth refinement,19.282275136549316,0.08737767204158331,21,
+TD3 Soft Target Update,105104,test_0004,155,Pairwise power-transfer refinement,19.294821279987666,0.012546143438349588,84,12.0
+TD3 Soft Target Update,105113,test_0005,156,Coarse beamwidth search,18.556038038822322,,40,
+TD3 Soft Target Update,105113,test_0005,156,Local beamwidth refinement,18.556038038822322,0.0,24,
+TD3 Soft Target Update,105113,test_0005,156,Pairwise power-transfer refinement,18.55814222539717,0.0021041865748472333,96,5.0
+TD3 Soft Target Update,105122,test_0006,157,Coarse beamwidth search,17.799091589408416,,60,
+TD3 Soft Target Update,105122,test_0006,157,Local beamwidth refinement,17.799091589408416,0.0,36,
+TD3 Soft Target Update,105122,test_0006,157,Pairwise power-transfer refinement,17.807124210318573,0.008032620910157107,144,4.0
+TD3 Soft Target Update,105131,test_0007,158,Coarse beamwidth search,18.948560776722974,,85,
+TD3 Soft Target Update,105131,test_0007,158,Local beamwidth refinement,18.973065831414736,0.024505054691761785,51,
+TD3 Soft Target Update,105131,test_0007,158,Pairwise power-transfer refinement,18.99205955345354,0.018993722038803895,204,22.0
+TD3 Soft Target Update,105140,test_0008,159,Coarse beamwidth search,18.00283561591333,,35,
+TD3 Soft Target Update,105140,test_0008,159,Local beamwidth refinement,18.382650427437387,0.3798148115240565,21,
+TD3 Soft Target Update,105140,test_0008,159,Pairwise power-transfer refinement,18.382650427437387,0.0,84,0.0
+TD3 Soft Target Update,105149,test_0009,160,Coarse beamwidth search,17.727561113391065,,45,
+TD3 Soft Target Update,105149,test_0009,160,Local beamwidth refinement,18.27415543424001,0.5465943208489463,27,
+TD3 Soft Target Update,105149,test_0009,160,Pairwise power-transfer refinement,18.29156596504542,0.017410530805410218,108,14.0
+TD3 Soft Target Update,105069,test_0000,161,Coarse beamwidth search,16.206563113892106,,30,
+TD3 Soft Target Update,105069,test_0000,161,Local beamwidth refinement,16.44879278090431,0.24222966701220372,18,
+TD3 Soft Target Update,105069,test_0000,161,Pairwise power-transfer refinement,16.460010001371586,0.01121722046727669,72,5.0
+TD3 Soft Target Update,105078,test_0001,162,Coarse beamwidth search,17.727129654126426,,30,
+TD3 Soft Target Update,105078,test_0001,162,Local beamwidth refinement,17.727129654126426,0.0,18,
+TD3 Soft Target Update,105078,test_0001,162,Pairwise power-transfer refinement,17.727129654126426,0.0,72,0.0
+TD3 Soft Target Update,105087,test_0002,163,Coarse beamwidth search,15.321239666761272,,60,
+TD3 Soft Target Update,105087,test_0002,163,Local beamwidth refinement,16.26283195676999,0.9415922900087175,36,
+TD3 Soft Target Update,105087,test_0002,163,Pairwise power-transfer refinement,16.293846064928882,0.031014108158892384,144,14.0
+TD3 Soft Target Update,105096,test_0003,164,Coarse beamwidth search,15.835244578935898,,55,
+TD3 Soft Target Update,105096,test_0003,164,Local beamwidth refinement,16.348758891697464,0.5135143127615667,33,
+TD3 Soft Target Update,105096,test_0003,164,Pairwise power-transfer refinement,16.354576079106657,0.00581718740919257,132,3.0
+TD3 Soft Target Update,105105,test_0004,165,Coarse beamwidth search,15.058319486193188,,25,
+TD3 Soft Target Update,105105,test_0004,165,Local beamwidth refinement,15.062803116726206,0.004483630533018257,15,
+TD3 Soft Target Update,105105,test_0004,165,Pairwise power-transfer refinement,15.092833303802397,0.030030187076190984,60,11.0
+TD3 Soft Target Update,105114,test_0005,166,Coarse beamwidth search,11.906223038695561,,40,
+TD3 Soft Target Update,105114,test_0005,166,Local beamwidth refinement,11.906223038695561,0.0,24,
+TD3 Soft Target Update,105114,test_0005,166,Pairwise power-transfer refinement,11.925250053098043,0.019027014402482223,96,9.0
+TD3 Soft Target Update,105123,test_0006,167,Coarse beamwidth search,14.759697595322933,,55,
+TD3 Soft Target Update,105123,test_0006,167,Local beamwidth refinement,14.954131567454459,0.19443397213152558,33,
+TD3 Soft Target Update,105123,test_0006,167,Pairwise power-transfer refinement,14.964299931391407,0.01016836393694831,132,8.0
+TD3 Soft Target Update,105132,test_0007,168,Coarse beamwidth search,15.530977079846851,,55,
+TD3 Soft Target Update,105132,test_0007,168,Local beamwidth refinement,15.964701451195957,0.4337243713491059,33,
+TD3 Soft Target Update,105132,test_0007,168,Pairwise power-transfer refinement,15.97847538564078,0.013773934444822444,132,12.0
+TD3 Soft Target Update,105141,test_0008,169,Coarse beamwidth search,13.247382588316102,,45,
+TD3 Soft Target Update,105141,test_0008,169,Local beamwidth refinement,13.333177401470993,0.0857948131548909,27,
+TD3 Soft Target Update,105141,test_0008,169,Pairwise power-transfer refinement,13.34190839138216,0.008730989911168052,108,5.0
+TD3 Soft Target Update,105150,test_0009,170,Coarse beamwidth search,15.50122255527955,,35,
+TD3 Soft Target Update,105150,test_0009,170,Local beamwidth refinement,16.280608877309323,0.7793863220297723,21,
+TD3 Soft Target Update,105150,test_0009,170,Pairwise power-transfer refinement,16.29609516735755,0.015486290048226437,84,7.0
+TD3 Soft Target Update,105070,test_0000,171,Coarse beamwidth search,12.529294910985001,,45,
+TD3 Soft Target Update,105070,test_0000,171,Local beamwidth refinement,12.755796098261367,0.2265011872763658,27,
+TD3 Soft Target Update,105070,test_0000,171,Pairwise power-transfer refinement,12.797930554721521,0.04213445646015401,108,13.0
+TD3 Soft Target Update,105079,test_0001,172,Coarse beamwidth search,18.506882444413268,,30,
+TD3 Soft Target Update,105079,test_0001,172,Local beamwidth refinement,18.506882444413268,0.0,18,
+TD3 Soft Target Update,105079,test_0001,172,Pairwise power-transfer refinement,18.50705466205434,0.0001722176410723364,72,1.0
+TD3 Soft Target Update,105088,test_0002,173,Coarse beamwidth search,15.960828079187833,,45,
+TD3 Soft Target Update,105088,test_0002,173,Local beamwidth refinement,15.960828079187833,0.0,27,
+TD3 Soft Target Update,105088,test_0002,173,Pairwise power-transfer refinement,15.987234607617921,0.026406528430088727,108,13.0
+TD3 Soft Target Update,105097,test_0003,174,Coarse beamwidth search,16.708531212197038,,45,
+TD3 Soft Target Update,105097,test_0003,174,Local beamwidth refinement,17.268589283990043,0.560058071793005,27,
+TD3 Soft Target Update,105097,test_0003,174,Pairwise power-transfer refinement,17.269752075580143,0.001162791590100909,108,2.0
+TD3 Soft Target Update,105106,test_0004,175,Coarse beamwidth search,15.910417516759702,,25,
+TD3 Soft Target Update,105106,test_0004,175,Local beamwidth refinement,15.914901147292719,0.0044836305330164805,15,
+TD3 Soft Target Update,105106,test_0004,175,Pairwise power-transfer refinement,15.9373181337624,0.022416986469680822,60,8.0
+TD3 Soft Target Update,105115,test_0005,176,Coarse beamwidth search,15.995336757566925,,30,
+TD3 Soft Target Update,105115,test_0005,176,Local beamwidth refinement,15.995336757566925,0.0,18,
+TD3 Soft Target Update,105115,test_0005,176,Pairwise power-transfer refinement,16.002293039050066,0.006956281483141424,72,3.0
+TD3 Soft Target Update,105124,test_0006,177,Coarse beamwidth search,16.937466349058525,,50,
+TD3 Soft Target Update,105124,test_0006,177,Local beamwidth refinement,16.937466349058525,0.0,30,
+TD3 Soft Target Update,105124,test_0006,177,Pairwise power-transfer refinement,16.949064234599934,0.01159788554140917,120,4.0
+TD3 Soft Target Update,105133,test_0007,178,Coarse beamwidth search,17.325830383175845,,55,
+TD3 Soft Target Update,105133,test_0007,178,Local beamwidth refinement,17.64272546381774,0.31689508064189553,33,
+TD3 Soft Target Update,105133,test_0007,178,Pairwise power-transfer refinement,17.648318334237537,0.005592870419796725,132,7.0
+TD3 Soft Target Update,105142,test_0008,179,Coarse beamwidth search,17.1066131255311,,30,
+TD3 Soft Target Update,105142,test_0008,179,Local beamwidth refinement,17.796586362882827,0.689973237351726,18,
+TD3 Soft Target Update,105142,test_0008,179,Pairwise power-transfer refinement,17.801220570621357,0.004634207738529739,72,2.0
+TD3 Soft Target Update,105151,test_0009,180,Coarse beamwidth search,17.904332075034194,,40,
+TD3 Soft Target Update,105151,test_0009,180,Local beamwidth refinement,18.094822857239834,0.19049078220563942,24,
+TD3 Soft Target Update,105151,test_0009,180,Pairwise power-transfer refinement,18.104987232475867,0.010164375236033862,96,6.0
+TD3 Gradient Clipping,105068,test_0000,181,Coarse beamwidth search,16.59761064921502,,20,
+TD3 Gradient Clipping,105068,test_0000,181,Local beamwidth refinement,17.084395175842985,0.48678452662796445,12,
+TD3 Gradient Clipping,105068,test_0000,181,Pairwise power-transfer refinement,17.097034760878792,0.012639585035806533,48,2.0
+TD3 Gradient Clipping,105077,test_0001,182,Coarse beamwidth search,17.838512887749346,,30,
+TD3 Gradient Clipping,105077,test_0001,182,Local beamwidth refinement,17.838512887749346,0.0,18,
+TD3 Gradient Clipping,105077,test_0001,182,Pairwise power-transfer refinement,17.841093114933752,0.002580227184406425,72,4.0
+TD3 Gradient Clipping,105086,test_0002,183,Coarse beamwidth search,15.580173134533336,,45,
+TD3 Gradient Clipping,105086,test_0002,183,Local beamwidth refinement,15.580173134533336,0.0,27,
+TD3 Gradient Clipping,105086,test_0002,183,Pairwise power-transfer refinement,15.609093069832378,0.02891993529904191,108,12.0
+TD3 Gradient Clipping,105095,test_0003,184,Coarse beamwidth search,16.944269534318025,,65,
+TD3 Gradient Clipping,105095,test_0003,184,Local beamwidth refinement,17.052787978829556,0.1085184445115317,39,
+TD3 Gradient Clipping,105095,test_0003,184,Pairwise power-transfer refinement,17.057111967914036,0.004323989084479507,156,2.0
+TD3 Gradient Clipping,105104,test_0004,185,Coarse beamwidth search,19.195940603613867,,35,
+TD3 Gradient Clipping,105104,test_0004,185,Local beamwidth refinement,19.282824606716257,0.08688400310239075,21,
+TD3 Gradient Clipping,105104,test_0004,185,Pairwise power-transfer refinement,19.29538874226959,0.012564135553333244,84,12.0
+TD3 Gradient Clipping,105113,test_0005,186,Coarse beamwidth search,18.55591041735538,,40,
+TD3 Gradient Clipping,105113,test_0005,186,Local beamwidth refinement,18.55591041735538,0.0,24,
+TD3 Gradient Clipping,105113,test_0005,186,Pairwise power-transfer refinement,18.55801587552647,0.0021054581710870934,96,5.0
+TD3 Gradient Clipping,105122,test_0006,187,Coarse beamwidth search,17.7988497640541,,60,
+TD3 Gradient Clipping,105122,test_0006,187,Local beamwidth refinement,17.7988497640541,0.0,36,
+TD3 Gradient Clipping,105122,test_0006,187,Pairwise power-transfer refinement,17.806882807796345,0.008033043742244672,144,4.0
+TD3 Gradient Clipping,105131,test_0007,188,Coarse beamwidth search,18.948345471428684,,85,
+TD3 Gradient Clipping,105131,test_0007,188,Local beamwidth refinement,18.972853027911174,0.024507556482490145,51,
+TD3 Gradient Clipping,105131,test_0007,188,Pairwise power-transfer refinement,18.99184863346754,0.018995605556366257,204,22.0
+TD3 Gradient Clipping,105140,test_0008,189,Coarse beamwidth search,18.00319521033556,,35,
+TD3 Gradient Clipping,105140,test_0008,189,Local beamwidth refinement,18.38283867935164,0.3796434690160808,21,
+TD3 Gradient Clipping,105140,test_0008,189,Pairwise power-transfer refinement,18.38283867935164,0.0,84,0.0
+TD3 Gradient Clipping,105149,test_0009,190,Coarse beamwidth search,17.727539032632784,,45,
+TD3 Gradient Clipping,105149,test_0009,190,Local beamwidth refinement,18.274246229595892,0.5467071969631085,27,
+TD3 Gradient Clipping,105149,test_0009,190,Pairwise power-transfer refinement,18.291664218340156,0.01741798874426337,108,14.0
+TD3 Gradient Clipping,105069,test_0000,191,Coarse beamwidth search,18.1620832330917,,40,
+TD3 Gradient Clipping,105069,test_0000,191,Local beamwidth refinement,18.409547163019916,0.24746392992821598,24,
+TD3 Gradient Clipping,105069,test_0000,191,Pairwise power-transfer refinement,18.409547163019916,0.0,96,0.0
+TD3 Gradient Clipping,105078,test_0001,192,Coarse beamwidth search,17.859294679519433,,35,
+TD3 Gradient Clipping,105078,test_0001,192,Local beamwidth refinement,17.859294679519433,0.0,21,
+TD3 Gradient Clipping,105078,test_0001,192,Pairwise power-transfer refinement,17.859294679519433,0.0,84,0.0
+TD3 Gradient Clipping,105087,test_0002,193,Coarse beamwidth search,18.493820663853114,,75,
+TD3 Gradient Clipping,105087,test_0002,193,Local beamwidth refinement,18.649139768850844,0.15531910499773005,45,
+TD3 Gradient Clipping,105087,test_0002,193,Pairwise power-transfer refinement,18.653740783453834,0.004601014602990006,180,12.0
+TD3 Gradient Clipping,105096,test_0003,194,Coarse beamwidth search,17.692733540592,,65,
+TD3 Gradient Clipping,105096,test_0003,194,Local beamwidth refinement,18.02681099993756,0.3340774593455613,39,
+TD3 Gradient Clipping,105096,test_0003,194,Pairwise power-transfer refinement,18.0305914911781,0.0037804912405405844,156,4.0
+TD3 Gradient Clipping,105105,test_0004,195,Coarse beamwidth search,15.19108477790687,,25,
+TD3 Gradient Clipping,105105,test_0004,195,Local beamwidth refinement,15.195568408439886,0.0044836305330164805,15,
+TD3 Gradient Clipping,105105,test_0004,195,Pairwise power-transfer refinement,15.216821167995846,0.021252759555959955,60,9.0
+TD3 Gradient Clipping,105114,test_0005,196,Coarse beamwidth search,12.744698814441405,,35,
+TD3 Gradient Clipping,105114,test_0005,196,Local beamwidth refinement,12.744698814441405,0.0,21,
+TD3 Gradient Clipping,105114,test_0005,196,Pairwise power-transfer refinement,12.766601164564127,0.02190235012272268,84,7.0
+TD3 Gradient Clipping,105123,test_0006,197,Coarse beamwidth search,17.188288906258915,,65,
+TD3 Gradient Clipping,105123,test_0006,197,Local beamwidth refinement,17.372002076200086,0.18371316994117137,39,
+TD3 Gradient Clipping,105123,test_0006,197,Pairwise power-transfer refinement,17.37498706701595,0.0029849908158645633,156,2.0
+TD3 Gradient Clipping,105132,test_0007,198,Coarse beamwidth search,15.29089528612437,,55,
+TD3 Gradient Clipping,105132,test_0007,198,Local beamwidth refinement,15.654949123253239,0.3640538371288695,33,
+TD3 Gradient Clipping,105132,test_0007,198,Pairwise power-transfer refinement,15.667672285222443,0.012723161969203645,132,9.0
+TD3 Gradient Clipping,105141,test_0008,199,Coarse beamwidth search,11.240732992798835,,45,
+TD3 Gradient Clipping,105141,test_0008,199,Local beamwidth refinement,11.240732992798835,0.0,27,
+TD3 Gradient Clipping,105141,test_0008,199,Pairwise power-transfer refinement,11.257396347591433,0.016663354792598284,108,13.0
+TD3 Gradient Clipping,105150,test_0009,200,Coarse beamwidth search,15.332846162639056,,35,
+TD3 Gradient Clipping,105150,test_0009,200,Local beamwidth refinement,16.255537868476242,0.9226917058371864,21,
+TD3 Gradient Clipping,105150,test_0009,200,Pairwise power-transfer refinement,16.267697032983943,0.012159164507700382,84,5.0
+TD3 Gradient Clipping,105070,test_0000,201,Coarse beamwidth search,16.599308685853373,,20,
+TD3 Gradient Clipping,105070,test_0000,201,Local beamwidth refinement,17.085567338248378,0.486258652395005,12,
+TD3 Gradient Clipping,105070,test_0000,201,Pairwise power-transfer refinement,17.09820187395233,0.012634535703952565,48,2.0
+TD3 Gradient Clipping,105079,test_0001,202,Coarse beamwidth search,17.829595843960014,,30,
+TD3 Gradient Clipping,105079,test_0001,202,Local beamwidth refinement,17.829595843960014,0.0,18,
+TD3 Gradient Clipping,105079,test_0001,202,Pairwise power-transfer refinement,17.83218022974272,0.002584385782704146,72,4.0
+TD3 Gradient Clipping,105088,test_0002,203,Coarse beamwidth search,15.580946767264635,,45,
+TD3 Gradient Clipping,105088,test_0002,203,Local beamwidth refinement,15.580946767264635,0.0,27,
+TD3 Gradient Clipping,105088,test_0002,203,Pairwise power-transfer refinement,15.609857664919616,0.028910897654981227,108,12.0
+TD3 Gradient Clipping,105097,test_0003,204,Coarse beamwidth search,16.94028915296841,,65,
+TD3 Gradient Clipping,105097,test_0003,204,Local beamwidth refinement,17.048170702841098,0.10788154987268683,39,
+TD3 Gradient Clipping,105097,test_0003,204,Pairwise power-transfer refinement,17.05244408873099,0.004273385889892012,156,2.0
+TD3 Gradient Clipping,105106,test_0004,205,Coarse beamwidth search,19.172881037030397,,35,
+TD3 Gradient Clipping,105106,test_0004,205,Local beamwidth refinement,19.2601905596988,0.0873095226684022,21,
+TD3 Gradient Clipping,105106,test_0004,205,Pairwise power-transfer refinement,19.27274588796275,0.012555328263950116,84,12.0
+TD3 Gradient Clipping,105115,test_0005,206,Coarse beamwidth search,18.552079004638017,,40,
+TD3 Gradient Clipping,105115,test_0005,206,Local beamwidth refinement,18.552079004638017,0.0,24,
+TD3 Gradient Clipping,105115,test_0005,206,Pairwise power-transfer refinement,18.55418351338684,0.002104508748821843,96,5.0
+TD3 Gradient Clipping,105124,test_0006,207,Coarse beamwidth search,17.79762737052877,,60,
+TD3 Gradient Clipping,105124,test_0006,207,Local beamwidth refinement,17.79762737052877,0.0,36,
+TD3 Gradient Clipping,105124,test_0006,207,Pairwise power-transfer refinement,17.805661774334915,0.008034403806146173,144,4.0
+TD3 Gradient Clipping,105133,test_0007,208,Coarse beamwidth search,18.938019096860454,,85,
+TD3 Gradient Clipping,105133,test_0007,208,Local beamwidth refinement,19.03060010394081,0.092581007080355,51,
+TD3 Gradient Clipping,105133,test_0007,208,Pairwise power-transfer refinement,19.048204907851282,0.01760480391047281,204,22.0
+TD3 Gradient Clipping,105142,test_0008,209,Coarse beamwidth search,18.001780717063415,,35,
+TD3 Gradient Clipping,105142,test_0008,209,Local beamwidth refinement,18.38195361125064,0.38017289418722555,21,
+TD3 Gradient Clipping,105142,test_0008,209,Pairwise power-transfer refinement,18.38195361125064,0.0,84,0.0
+TD3 Gradient Clipping,105151,test_0009,210,Coarse beamwidth search,17.715144283520413,,45,
+TD3 Gradient Clipping,105151,test_0009,210,Local beamwidth refinement,18.266550666704497,0.5514063831840836,27,
+TD3 Gradient Clipping,105151,test_0009,210,Pairwise power-transfer refinement,18.284010759211853,0.01746009250735625,108,14.0
+TD3 Adaptive Exploration Decay,105068,test_0000,211,Coarse beamwidth search,16.597204295605707,,20,
+TD3 Adaptive Exploration Decay,105068,test_0000,211,Local beamwidth refinement,17.084096750321798,0.48689245471609155,12,
+TD3 Adaptive Exploration Decay,105068,test_0000,211,Pairwise power-transfer refinement,17.096738016350244,0.012641266028445841,48,2.0
+TD3 Adaptive Exploration Decay,105077,test_0001,212,Coarse beamwidth search,17.837745911862246,,30,
+TD3 Adaptive Exploration Decay,105077,test_0001,212,Local beamwidth refinement,17.837745911862246,0.0,18,
+TD3 Adaptive Exploration Decay,105077,test_0001,212,Pairwise power-transfer refinement,17.840326983081766,0.0025810712195202257,72,4.0
+TD3 Adaptive Exploration Decay,105086,test_0002,213,Coarse beamwidth search,15.58021058798565,,45,
+TD3 Adaptive Exploration Decay,105086,test_0002,213,Local beamwidth refinement,15.58021058798565,0.0,27,
+TD3 Adaptive Exploration Decay,105086,test_0002,213,Pairwise power-transfer refinement,15.609140926673895,0.02893033868824446,108,12.0
+TD3 Adaptive Exploration Decay,105095,test_0003,214,Coarse beamwidth search,16.944194798200684,,65,
+TD3 Adaptive Exploration Decay,105095,test_0003,214,Local beamwidth refinement,17.052674317204286,0.10847951900360187,39,
+TD3 Adaptive Exploration Decay,105095,test_0003,214,Pairwise power-transfer refinement,17.056998641841076,0.004324324636790777,156,2.0
+TD3 Adaptive Exploration Decay,105104,test_0004,215,Coarse beamwidth search,19.19525308620692,,35,
+TD3 Adaptive Exploration Decay,105104,test_0004,215,Local beamwidth refinement,19.282409015199146,0.08715592899222457,21,
+TD3 Adaptive Exploration Decay,105104,test_0004,215,Pairwise power-transfer refinement,19.294966309125535,0.012557293926388269,84,12.0
+TD3 Adaptive Exploration Decay,105113,test_0005,216,Coarse beamwidth search,18.55595269671344,,40,
+TD3 Adaptive Exploration Decay,105113,test_0005,216,Local beamwidth refinement,18.55595269671344,0.0,24,
+TD3 Adaptive Exploration Decay,105113,test_0005,216,Pairwise power-transfer refinement,18.558057606270026,0.00210490955658571,96,5.0
+TD3 Adaptive Exploration Decay,105122,test_0006,217,Coarse beamwidth search,17.798930286965984,,60,
+TD3 Adaptive Exploration Decay,105122,test_0006,217,Local beamwidth refinement,17.798930286965984,0.0,36,
+TD3 Adaptive Exploration Decay,105122,test_0006,217,Pairwise power-transfer refinement,17.80696319433794,0.008032907371955389,144,4.0
+TD3 Adaptive Exploration Decay,105131,test_0007,218,Coarse beamwidth search,18.94836026903725,,85,
+TD3 Adaptive Exploration Decay,105131,test_0007,218,Local beamwidth refinement,18.97286826470026,0.024507995663011428,51,
+TD3 Adaptive Exploration Decay,105131,test_0007,218,Pairwise power-transfer refinement,18.991862701374515,0.018994436674255155,204,22.0
+TD3 Adaptive Exploration Decay,105140,test_0008,219,Coarse beamwidth search,18.00293436643569,,35,
+TD3 Adaptive Exploration Decay,105140,test_0008,219,Local beamwidth refinement,18.382711327522696,0.379776961087007,21,
+TD3 Adaptive Exploration Decay,105140,test_0008,219,Pairwise power-transfer refinement,18.382711327522696,0.0,84,0.0
+TD3 Adaptive Exploration Decay,105149,test_0009,220,Coarse beamwidth search,17.727327587388686,,45,
+TD3 Adaptive Exploration Decay,105149,test_0009,220,Local beamwidth refinement,18.274153356087847,0.5468257686991613,27,
+TD3 Adaptive Exploration Decay,105149,test_0009,220,Pairwise power-transfer refinement,18.291568028711577,0.017414672623729643,108,14.0
+TD3 Adaptive Exploration Decay,105069,test_0000,221,Coarse beamwidth search,14.932600428759132,,30,
+TD3 Adaptive Exploration Decay,105069,test_0000,221,Local beamwidth refinement,14.932600428759132,0.0,18,
+TD3 Adaptive Exploration Decay,105069,test_0000,221,Pairwise power-transfer refinement,14.95962803139293,0.027027602633797443,72,8.0
+TD3 Adaptive Exploration Decay,105078,test_0001,222,Coarse beamwidth search,16.374578083029956,,30,
+TD3 Adaptive Exploration Decay,105078,test_0001,222,Local beamwidth refinement,16.374578083029956,0.0,18,
+TD3 Adaptive Exploration Decay,105078,test_0001,222,Pairwise power-transfer refinement,16.374578083029956,0.0,72,0.0
+TD3 Adaptive Exploration Decay,105087,test_0002,223,Coarse beamwidth search,17.28797517312469,,55,
+TD3 Adaptive Exploration Decay,105087,test_0002,223,Local beamwidth refinement,17.363155455537562,0.07518028241287311,33,
+TD3 Adaptive Exploration Decay,105087,test_0002,223,Pairwise power-transfer refinement,17.36804173492185,0.0048862793842872065,132,6.0
+TD3 Adaptive Exploration Decay,105096,test_0003,224,Coarse beamwidth search,18.509668141019255,,80,
+TD3 Adaptive Exploration Decay,105096,test_0003,224,Local beamwidth refinement,18.87977493656782,0.3701067955485655,48,
+TD3 Adaptive Exploration Decay,105096,test_0003,224,Pairwise power-transfer refinement,18.87977493656782,0.0,192,0.0
+TD3 Adaptive Exploration Decay,105105,test_0004,225,Coarse beamwidth search,15.575532025504305,,25,
+TD3 Adaptive Exploration Decay,105105,test_0004,225,Local beamwidth refinement,15.580015656037324,0.004483630533018257,15,
+TD3 Adaptive Exploration Decay,105105,test_0004,225,Pairwise power-transfer refinement,15.596289039723398,0.016273383686074894,60,8.0
+TD3 Adaptive Exploration Decay,105114,test_0005,226,Coarse beamwidth search,12.263878739164204,,30,
+TD3 Adaptive Exploration Decay,105114,test_0005,226,Local beamwidth refinement,12.268851237832854,0.004972498668649905,18,
+TD3 Adaptive Exploration Decay,105114,test_0005,226,Pairwise power-transfer refinement,12.2996206272571,0.030769389424246896,72,6.0
+TD3 Adaptive Exploration Decay,105123,test_0006,227,Coarse beamwidth search,18.886436291218377,,90,
+TD3 Adaptive Exploration Decay,105123,test_0006,227,Local beamwidth refinement,19.141231317407946,0.2547950261895693,54,
+TD3 Adaptive Exploration Decay,105123,test_0006,227,Pairwise power-transfer refinement,19.14209786994061,0.0008665525326634338,216,8.0
+TD3 Adaptive Exploration Decay,105132,test_0007,228,Coarse beamwidth search,17.680031868050534,,75,
+TD3 Adaptive Exploration Decay,105132,test_0007,228,Local beamwidth refinement,17.852680081875217,0.17264821382468298,45,
+TD3 Adaptive Exploration Decay,105132,test_0007,228,Pairwise power-transfer refinement,17.8555456428337,0.0028655609584831154,180,11.0
+TD3 Adaptive Exploration Decay,105141,test_0008,229,Coarse beamwidth search,6.262784746761935,,300,
+TD3 Adaptive Exploration Decay,105141,test_0008,229,Local beamwidth refinement,6.262784746761935,0.0,180,
+TD3 Adaptive Exploration Decay,105141,test_0008,229,Pairwise power-transfer refinement,6.3328030371100485,0.07001829034811369,720,113.0
+TD3 Adaptive Exploration Decay,105150,test_0009,230,Coarse beamwidth search,15.094518736851903,,40,
+TD3 Adaptive Exploration Decay,105150,test_0009,230,Local beamwidth refinement,15.472570237180388,0.37805150032848545,24,
+TD3 Adaptive Exploration Decay,105150,test_0009,230,Pairwise power-transfer refinement,15.506098996791355,0.033528759610966574,96,12.0
+TD3 Adaptive Exploration Decay,105070,test_0000,231,Coarse beamwidth search,16.388333774470986,,30,
+TD3 Adaptive Exploration Decay,105070,test_0000,231,Local beamwidth refinement,16.491422561000103,0.10308878652911702,18,
+TD3 Adaptive Exploration Decay,105070,test_0000,231,Pairwise power-transfer refinement,16.501465980631476,0.010043419631372785,72,2.0
+TD3 Adaptive Exploration Decay,105079,test_0001,232,Coarse beamwidth search,17.854849929924338,,30,
+TD3 Adaptive Exploration Decay,105079,test_0001,232,Local beamwidth refinement,17.854849929924338,0.0,18,
+TD3 Adaptive Exploration Decay,105079,test_0001,232,Pairwise power-transfer refinement,17.854849929924338,0.0,72,0.0
+TD3 Adaptive Exploration Decay,105088,test_0002,233,Coarse beamwidth search,15.721968607579347,,60,
+TD3 Adaptive Exploration Decay,105088,test_0002,233,Local beamwidth refinement,16.835447099653884,1.1134784920745364,36,
+TD3 Adaptive Exploration Decay,105088,test_0002,233,Pairwise power-transfer refinement,16.865802465174433,0.03035536552054907,144,15.0
+TD3 Adaptive Exploration Decay,105097,test_0003,234,Coarse beamwidth search,16.197371981470816,,55,
+TD3 Adaptive Exploration Decay,105097,test_0003,234,Local beamwidth refinement,16.533372783681354,0.3360008022105383,33,
+TD3 Adaptive Exploration Decay,105097,test_0003,234,Pairwise power-transfer refinement,16.534919571800557,0.0015467881192030575,132,2.0
+TD3 Adaptive Exploration Decay,105106,test_0004,235,Coarse beamwidth search,14.505129737197356,,25,
+TD3 Adaptive Exploration Decay,105106,test_0004,235,Local beamwidth refinement,14.509613367730376,0.004483630533020033,15,
+TD3 Adaptive Exploration Decay,105106,test_0004,235,Pairwise power-transfer refinement,14.540322341113992,0.03070897338361611,60,8.0
+TD3 Adaptive Exploration Decay,105115,test_0005,236,Coarse beamwidth search,13.51155649477595,,30,
+TD3 Adaptive Exploration Decay,105115,test_0005,236,Local beamwidth refinement,13.51155649477595,0.0,18,
+TD3 Adaptive Exploration Decay,105115,test_0005,236,Pairwise power-transfer refinement,13.526352839635633,0.01479634485968262,72,6.0
+TD3 Adaptive Exploration Decay,105124,test_0006,237,Coarse beamwidth search,16.060254814501878,,50,
+TD3 Adaptive Exploration Decay,105124,test_0006,237,Local beamwidth refinement,16.060254814501878,0.0,30,
+TD3 Adaptive Exploration Decay,105124,test_0006,237,Pairwise power-transfer refinement,16.077617881235298,0.01736306673342014,120,6.0
+TD3 Adaptive Exploration Decay,105133,test_0007,238,Coarse beamwidth search,15.61963128776244,,55,
+TD3 Adaptive Exploration Decay,105133,test_0007,238,Local beamwidth refinement,16.044209968927223,0.4245786811647836,33,
+TD3 Adaptive Exploration Decay,105133,test_0007,238,Pairwise power-transfer refinement,16.065760529178135,0.021550560250911843,132,11.0
+TD3 Adaptive Exploration Decay,105142,test_0008,239,Coarse beamwidth search,13.914015344494041,,30,
+TD3 Adaptive Exploration Decay,105142,test_0008,239,Local beamwidth refinement,14.582529555294144,0.6685142108001028,18,
+TD3 Adaptive Exploration Decay,105142,test_0008,239,Pairwise power-transfer refinement,14.601715036485231,0.019185481191087206,72,7.0
+TD3 Adaptive Exploration Decay,105151,test_0009,240,Coarse beamwidth search,16.033377940879983,,35,
+TD3 Adaptive Exploration Decay,105151,test_0009,240,Local beamwidth refinement,16.33274780639878,0.29936986551879485,21,
+TD3 Adaptive Exploration Decay,105151,test_0009,240,Pairwise power-transfer refinement,16.351414164708128,0.018666358309349818,84,8.0
+TD3 Dynamic Delay,105068,test_0000,241,Coarse beamwidth search,16.73062619392436,,20,
+TD3 Dynamic Delay,105068,test_0000,241,Local beamwidth refinement,17.172872481984577,0.44224628806021826,12,
+TD3 Dynamic Delay,105068,test_0000,241,Pairwise power-transfer refinement,17.18589998053909,0.013027498554514239,48,2.0
+TD3 Dynamic Delay,105077,test_0001,242,Coarse beamwidth search,17.667522473406052,,30,
+TD3 Dynamic Delay,105077,test_0001,242,Local beamwidth refinement,17.667522473406052,0.0,18,
+TD3 Dynamic Delay,105077,test_0001,242,Pairwise power-transfer refinement,17.670539478270374,0.0030170048643221037,72,3.0
+TD3 Dynamic Delay,105086,test_0002,243,Coarse beamwidth search,15.662018809379921,,45,
+TD3 Dynamic Delay,105086,test_0002,243,Local beamwidth refinement,15.883394907127954,0.22137609774803302,27,
+TD3 Dynamic Delay,105086,test_0002,243,Pairwise power-transfer refinement,15.911091164923347,0.027696257795392754,108,12.0
+TD3 Dynamic Delay,105095,test_0003,244,Coarse beamwidth search,16.03525835184415,,55,
+TD3 Dynamic Delay,105095,test_0003,244,Local beamwidth refinement,16.499011703074036,0.4637533512298866,33,
+TD3 Dynamic Delay,105095,test_0003,244,Pairwise power-transfer refinement,16.499112072222754,0.00010036914871847102,132,1.0
+TD3 Dynamic Delay,105104,test_0004,245,Coarse beamwidth search,17.639385084676064,,25,
+TD3 Dynamic Delay,105104,test_0004,245,Local beamwidth refinement,17.643868715209084,0.004483630533020033,15,
+TD3 Dynamic Delay,105104,test_0004,245,Pairwise power-transfer refinement,17.6572773140284,0.013408598819314221,60,7.0
+TD3 Dynamic Delay,105113,test_0005,246,Coarse beamwidth search,17.366569904390406,,30,
+TD3 Dynamic Delay,105113,test_0005,246,Local beamwidth refinement,17.725433475945042,0.358863571554636,18,
+TD3 Dynamic Delay,105113,test_0005,246,Pairwise power-transfer refinement,17.738510688581645,0.013077212636602553,72,6.0
+TD3 Dynamic Delay,105122,test_0006,247,Coarse beamwidth search,16.34565027913096,,50,
+TD3 Dynamic Delay,105122,test_0006,247,Local beamwidth refinement,16.370233505155376,0.024583226024414984,30,
+TD3 Dynamic Delay,105122,test_0006,247,Pairwise power-transfer refinement,16.39074362239277,0.020510117237392933,120,5.0
+TD3 Dynamic Delay,105131,test_0007,248,Coarse beamwidth search,17.317924966152287,,60,
+TD3 Dynamic Delay,105131,test_0007,248,Local beamwidth refinement,17.491267997003572,0.1733430308512851,36,
+TD3 Dynamic Delay,105131,test_0007,248,Pairwise power-transfer refinement,17.51039894125229,0.019130944248718862,144,16.0
+TD3 Dynamic Delay,105140,test_0008,249,Coarse beamwidth search,17.828498177691753,,30,
+TD3 Dynamic Delay,105140,test_0008,249,Local beamwidth refinement,18.250002098701696,0.4215039210099434,18,
+TD3 Dynamic Delay,105140,test_0008,249,Pairwise power-transfer refinement,18.253722847073888,0.003720748372192162,72,1.0
+TD3 Dynamic Delay,105149,test_0009,250,Coarse beamwidth search,17.360425925601895,,40,
+TD3 Dynamic Delay,105149,test_0009,250,Local beamwidth refinement,18.32884823463452,0.9684223090326256,24,
+TD3 Dynamic Delay,105149,test_0009,250,Pairwise power-transfer refinement,18.34061294361421,0.011764708979690397,96,12.0
+TD3 Dynamic Delay,105069,test_0000,251,Coarse beamwidth search,17.99396419561,,30,
+TD3 Dynamic Delay,105069,test_0000,251,Local beamwidth refinement,18.3660377906284,0.3720735950183993,18,
+TD3 Dynamic Delay,105069,test_0000,251,Pairwise power-transfer refinement,18.37066754872015,0.004629758091748926,72,1.0
+TD3 Dynamic Delay,105078,test_0001,252,Coarse beamwidth search,18.456001105641302,,35,
+TD3 Dynamic Delay,105078,test_0001,252,Local beamwidth refinement,18.456001105641302,0.0,21,
+TD3 Dynamic Delay,105078,test_0001,252,Pairwise power-transfer refinement,18.456001105641302,0.0,84,0.0
+TD3 Dynamic Delay,105087,test_0002,253,Coarse beamwidth search,16.81945414676555,,50,
+TD3 Dynamic Delay,105087,test_0002,253,Local beamwidth refinement,17.954677800853727,1.1352236540881755,30,
+TD3 Dynamic Delay,105087,test_0002,253,Pairwise power-transfer refinement,17.965982813060993,0.01130501220726643,120,11.0
+TD3 Dynamic Delay,105096,test_0003,254,Coarse beamwidth search,15.640296232953434,,55,
+TD3 Dynamic Delay,105096,test_0003,254,Local beamwidth refinement,16.313698033606883,0.6734018006534495,33,
+TD3 Dynamic Delay,105096,test_0003,254,Pairwise power-transfer refinement,16.321841764455762,0.00814373084887876,132,4.0
+TD3 Dynamic Delay,105105,test_0004,255,Coarse beamwidth search,15.51380755184951,,25,
+TD3 Dynamic Delay,105105,test_0004,255,Local beamwidth refinement,15.518291182382526,0.0044836305330164805,15,
+TD3 Dynamic Delay,105105,test_0004,255,Pairwise power-transfer refinement,15.533973797086404,0.015682614703877107,60,8.0
+TD3 Dynamic Delay,105114,test_0005,256,Coarse beamwidth search,12.75067745513896,,35,
+TD3 Dynamic Delay,105114,test_0005,256,Local beamwidth refinement,12.75067745513896,0.0,21,
+TD3 Dynamic Delay,105114,test_0005,256,Pairwise power-transfer refinement,12.7723784848533,0.021701029714339626,84,7.0
+TD3 Dynamic Delay,105123,test_0006,257,Coarse beamwidth search,16.981183254808816,,50,
+TD3 Dynamic Delay,105123,test_0006,257,Local beamwidth refinement,16.984926426094855,0.003743171286039626,30,
+TD3 Dynamic Delay,105123,test_0006,257,Pairwise power-transfer refinement,16.990673735341346,0.005747309246491028,120,2.0
+TD3 Dynamic Delay,105132,test_0007,258,Coarse beamwidth search,15.780125878543213,,55,
+TD3 Dynamic Delay,105132,test_0007,258,Local beamwidth refinement,15.89868984312218,0.11856396457896601,33,
+TD3 Dynamic Delay,105132,test_0007,258,Pairwise power-transfer refinement,15.910256706544509,0.011566863422329376,132,7.0
+TD3 Dynamic Delay,105141,test_0008,259,Coarse beamwidth search,15.349802299694517,,25,
+TD3 Dynamic Delay,105141,test_0008,259,Local beamwidth refinement,15.406642165283055,0.05683986558853782,15,
+TD3 Dynamic Delay,105141,test_0008,259,Pairwise power-transfer refinement,15.417121431686912,0.010479266403857324,60,3.0
+TD3 Dynamic Delay,105150,test_0009,260,Coarse beamwidth search,15.857673586627824,,35,
+TD3 Dynamic Delay,105150,test_0009,260,Local beamwidth refinement,16.387379868456488,0.5297062818286644,21,
+TD3 Dynamic Delay,105150,test_0009,260,Pairwise power-transfer refinement,16.400011849004112,0.012631980547624266,84,3.0
+TD3 Dynamic Delay,105070,test_0000,261,Coarse beamwidth search,16.60766034164019,,20,
+TD3 Dynamic Delay,105070,test_0000,261,Local beamwidth refinement,17.09125986443964,0.48359952279944807,12,
+TD3 Dynamic Delay,105070,test_0000,261,Pairwise power-transfer refinement,17.103895878791448,0.012636014351809166,48,2.0
+TD3 Dynamic Delay,105079,test_0001,262,Coarse beamwidth search,17.782617961110844,,30,
+TD3 Dynamic Delay,105079,test_0001,262,Local beamwidth refinement,17.782617961110844,0.0,18,
+TD3 Dynamic Delay,105079,test_0001,262,Pairwise power-transfer refinement,17.785311421006647,0.002693459895802164,72,3.0
+TD3 Dynamic Delay,105088,test_0002,263,Coarse beamwidth search,15.582536701883088,,45,
+TD3 Dynamic Delay,105088,test_0002,263,Local beamwidth refinement,15.582536701883088,0.0,27,
+TD3 Dynamic Delay,105088,test_0002,263,Pairwise power-transfer refinement,15.611607724770677,0.029071022887588782,108,12.0
+TD3 Dynamic Delay,105097,test_0003,264,Coarse beamwidth search,16.908152564384803,,65,
+TD3 Dynamic Delay,105097,test_0003,264,Local beamwidth refinement,17.00854540530939,0.100392840924588,39,
+TD3 Dynamic Delay,105097,test_0003,264,Pairwise power-transfer refinement,17.01239077792208,0.00384537261268747,156,2.0
+TD3 Dynamic Delay,105106,test_0004,265,Coarse beamwidth search,19.03254808219909,,30,
+TD3 Dynamic Delay,105106,test_0004,265,Local beamwidth refinement,19.119068469682123,0.08652038748303426,18,
+TD3 Dynamic Delay,105106,test_0004,265,Pairwise power-transfer refinement,19.130780703281058,0.011712233598935029,72,10.0
+TD3 Dynamic Delay,105115,test_0005,266,Coarse beamwidth search,18.522022347309512,,40,
+TD3 Dynamic Delay,105115,test_0005,266,Local beamwidth refinement,18.535596987057062,0.013574639747549355,24,
+TD3 Dynamic Delay,105115,test_0005,266,Pairwise power-transfer refinement,18.544166931695358,0.008569944638296079,96,7.0
+TD3 Dynamic Delay,105124,test_0006,267,Coarse beamwidth search,17.754988458372143,,60,
+TD3 Dynamic Delay,105124,test_0006,267,Local beamwidth refinement,17.754988458372143,0.0,36,
+TD3 Dynamic Delay,105124,test_0006,267,Pairwise power-transfer refinement,17.763046550514265,0.008058092142121609,144,4.0
+TD3 Dynamic Delay,105133,test_0007,268,Coarse beamwidth search,18.849039122406893,,80,
+TD3 Dynamic Delay,105133,test_0007,268,Local beamwidth refinement,18.915617259011892,0.06657813660499912,48,
+TD3 Dynamic Delay,105133,test_0007,268,Pairwise power-transfer refinement,18.934309076438133,0.01869181742624093,192,20.0
+TD3 Dynamic Delay,105142,test_0008,269,Coarse beamwidth search,17.98945837176422,,35,
+TD3 Dynamic Delay,105142,test_0008,269,Local beamwidth refinement,18.373396753234818,0.38393838147059967,21,
+TD3 Dynamic Delay,105142,test_0008,269,Pairwise power-transfer refinement,18.373396753234818,0.0,84,0.0
+TD3 Dynamic Delay,105151,test_0009,270,Coarse beamwidth search,17.658252903347872,,45,
+TD3 Dynamic Delay,105151,test_0009,270,Local beamwidth refinement,18.22254229977761,0.5642893964297393,27,
+TD3 Dynamic Delay,105151,test_0009,270,Pairwise power-transfer refinement,18.240268002335487,0.017725702557875422,108,14.0
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105068,test_0000,271,Coarse beamwidth search,12.914660742375704,,40,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105068,test_0000,271,Local beamwidth refinement,13.228092693773968,0.31343195139826463,24,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105068,test_0000,271,Pairwise power-transfer refinement,13.277755011896147,0.04966231812217892,96,11.0
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105077,test_0001,272,Coarse beamwidth search,17.960098954819927,,30,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105077,test_0001,272,Local beamwidth refinement,17.960098954819927,0.0,18,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105077,test_0001,272,Pairwise power-transfer refinement,17.961554068327796,0.0014551135078697541,72,1.0
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105086,test_0002,273,Coarse beamwidth search,15.045631796987717,,45,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105086,test_0002,273,Local beamwidth refinement,15.307315439951132,0.2616836429634155,27,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105086,test_0002,273,Pairwise power-transfer refinement,15.333845813368365,0.02653037341723241,108,14.0
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105095,test_0003,274,Coarse beamwidth search,16.511728204544752,,55,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105095,test_0003,274,Local beamwidth refinement,16.809877808074052,0.29814960352929987,33,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105095,test_0003,274,Pairwise power-transfer refinement,16.81315514354784,0.0032773354737862803,132,3.0
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105104,test_0004,275,Coarse beamwidth search,18.277107300841333,,30,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105104,test_0004,275,Local beamwidth refinement,18.280843659618842,0.003736358777508997,18,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105104,test_0004,275,Pairwise power-transfer refinement,18.28201530975709,0.001171650138246605,72,4.0
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105113,test_0005,276,Coarse beamwidth search,17.146674615549326,,35,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105113,test_0005,276,Local beamwidth refinement,17.78444984688694,0.6377752313376135,21,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105113,test_0005,276,Pairwise power-transfer refinement,17.791683047436866,0.007233200549926266,84,2.0
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105122,test_0006,277,Coarse beamwidth search,18.447613692219026,,80,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105122,test_0006,277,Local beamwidth refinement,18.447613692219026,0.0,48,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105122,test_0006,277,Pairwise power-transfer refinement,18.45191925746714,0.004305565248113652,192,2.0
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105131,test_0007,278,Coarse beamwidth search,19.17273403905878,,95,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105131,test_0007,278,Local beamwidth refinement,19.18341397583565,0.010679936776867294,57,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105131,test_0007,278,Pairwise power-transfer refinement,19.18398540465553,0.000571428819881703,228,8.0
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105140,test_0008,279,Coarse beamwidth search,16.198499438808575,,35,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105140,test_0008,279,Local beamwidth refinement,16.198499438808575,0.0,21,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105140,test_0008,279,Pairwise power-transfer refinement,16.19954009278,0.0010406539714260532,84,2.0
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105149,test_0009,280,Coarse beamwidth search,18.299438408411632,,50,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105149,test_0009,280,Local beamwidth refinement,18.66542225490277,0.3659838464911367,30,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105149,test_0009,280,Pairwise power-transfer refinement,18.666512693727576,0.001090438824807194,120,3.0
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105069,test_0000,281,Coarse beamwidth search,17.84544422402978,,30,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105069,test_0000,281,Local beamwidth refinement,18.125508387612943,0.28006416358316244,18,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105069,test_0000,281,Pairwise power-transfer refinement,18.13356288606069,0.008054498447748415,72,2.0
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105078,test_0001,282,Coarse beamwidth search,18.847932127612808,,35,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105078,test_0001,282,Local beamwidth refinement,18.91975791184199,0.0718257842291834,21,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105078,test_0001,282,Pairwise power-transfer refinement,18.91975791184199,0.0,84,0.0
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105087,test_0002,283,Coarse beamwidth search,16.73217397064675,,50,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105087,test_0002,283,Local beamwidth refinement,17.685662093453555,0.9534881228068066,30,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105087,test_0002,283,Pairwise power-transfer refinement,17.69734209521214,0.011680001758584524,120,10.0
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105096,test_0003,284,Coarse beamwidth search,16.668406353083366,,45,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105096,test_0003,284,Local beamwidth refinement,17.199417209354905,0.5310108562715392,27,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105096,test_0003,284,Pairwise power-transfer refinement,17.20038889685639,0.0009716875014831317,108,2.0
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105105,test_0004,285,Coarse beamwidth search,15.962999991488596,,25,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105105,test_0004,285,Local beamwidth refinement,15.967483622021614,0.004483630533018257,15,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105105,test_0004,285,Pairwise power-transfer refinement,15.981985798835689,0.01450217681407473,60,9.0
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105114,test_0005,286,Coarse beamwidth search,15.729538718420406,,30,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105114,test_0005,286,Local beamwidth refinement,15.729538718420406,0.0,18,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105114,test_0005,286,Pairwise power-transfer refinement,15.736152570207503,0.006613851787097502,72,2.0
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105123,test_0006,287,Coarse beamwidth search,17.110847500975904,,55,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105123,test_0006,287,Local beamwidth refinement,17.110847500975904,0.0,33,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105123,test_0006,287,Pairwise power-transfer refinement,17.117070894056656,0.00622339308075226,132,3.0
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105132,test_0007,288,Coarse beamwidth search,17.35296649397951,,60,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105132,test_0007,288,Local beamwidth refinement,17.640777216765503,0.28781072278599495,36,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105132,test_0007,288,Pairwise power-transfer refinement,17.644800776873783,0.004023560108279867,144,8.0
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105141,test_0008,289,Coarse beamwidth search,16.358745790347754,,30,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105141,test_0008,289,Local beamwidth refinement,16.358745790347754,0.0,18,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105141,test_0008,289,Pairwise power-transfer refinement,16.358745790347754,0.0,72,0.0
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105150,test_0009,290,Coarse beamwidth search,18.144886023341414,,40,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105150,test_0009,290,Local beamwidth refinement,18.144886023341414,0.0,24,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105150,test_0009,290,Pairwise power-transfer refinement,18.15300584943774,0.008119826096326221,96,6.0
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105070,test_0000,291,Coarse beamwidth search,16.3316287375429,,20,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105070,test_0000,291,Local beamwidth refinement,16.3316287375429,0.0,12,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105070,test_0000,291,Pairwise power-transfer refinement,16.34628742664119,0.014658689098290267,48,4.0
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105079,test_0001,292,Coarse beamwidth search,12.279678613851047,,300,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105079,test_0001,292,Local beamwidth refinement,12.279678613851047,0.0,180,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105079,test_0001,292,Pairwise power-transfer refinement,12.30285831803643,0.023179704185382732,720,59.0
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105088,test_0002,293,Coarse beamwidth search,15.612825618504916,,45,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105088,test_0002,293,Local beamwidth refinement,15.612825618504916,0.0,27,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105088,test_0002,293,Pairwise power-transfer refinement,15.637749696190475,0.02492407768555971,108,11.0
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105097,test_0003,294,Coarse beamwidth search,16.319470305116077,,50,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105097,test_0003,294,Local beamwidth refinement,16.733443022035964,0.41397271691988635,30,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105097,test_0003,294,Pairwise power-transfer refinement,16.73540031929668,0.001957297260716473,120,3.0
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105106,test_0004,295,Coarse beamwidth search,17.793248449238508,,20,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105106,test_0004,295,Local beamwidth refinement,17.79885298740478,0.005604538166270601,12,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105106,test_0004,295,Pairwise power-transfer refinement,17.808411995360512,0.009559007955733279,48,6.0
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105115,test_0005,296,Coarse beamwidth search,16.921103284385687,,25,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105115,test_0005,296,Local beamwidth refinement,17.611469135976805,0.6903658515911175,15,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105115,test_0005,296,Pairwise power-transfer refinement,17.622279127341557,0.010809991364752136,60,3.0
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105124,test_0006,297,Coarse beamwidth search,17.910091752690914,,50,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105124,test_0006,297,Local beamwidth refinement,17.910091752690914,0.0,30,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105124,test_0006,297,Pairwise power-transfer refinement,17.918760574680782,0.008668821989868292,120,4.0
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105133,test_0007,298,Coarse beamwidth search,17.825149276577434,,60,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105133,test_0007,298,Local beamwidth refinement,18.068131958711003,0.24298268213356877,36,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105133,test_0007,298,Pairwise power-transfer refinement,18.08095058908054,0.012818630369537232,144,14.0
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105142,test_0008,299,Coarse beamwidth search,15.535384743892886,,25,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105142,test_0008,299,Local beamwidth refinement,15.585193319410129,0.04980857551724327,15,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105142,test_0008,299,Pairwise power-transfer refinement,15.598581548261013,0.013388228850883976,60,1.0
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105151,test_0009,300,Coarse beamwidth search,16.562061221127767,,30,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105151,test_0009,300,Local beamwidth refinement,16.562061221127767,0.0,18,
+TD3 Uncertainty-Aware Delay + Adaptive Actor LR,105151,test_0009,300,Pairwise power-transfer refinement,16.591043789094424,0.02898256796665777,72,8.0

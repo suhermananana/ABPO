@@ -1,0 +1,42 @@
+{
+  "title": "Adaptive Beam Power Optimization for UAV mmWave Communications under Dynamic Mobility",
+  "run_mode": "scenario_10",
+  "seeds": [
+    2026,
+    2027,
+    2028
+  ],
+  "train_scenarios": 10,
+  "validation_scenarios": 3,
+  "test_scenarios": 10,
+  "trajectory_methods": [
+    "DDPG",
+    "TD3",
+    "TD3 Twin Critic",
+    "TD3 Target Policy Smoothing",
+    "TD3 Delayed Actor Update",
+    "TD3 Soft Target Update",
+    "TD3 Gradient Clipping",
+    "TD3 Adaptive Exploration Decay",
+    "TD3 Dynamic Delay",
+    "TD3 Uncertainty-Aware Delay + Adaptive Actor LR"
+  ],
+  "communication_methods": [
+    "PSO / Metaheuristic",
+    "DDPG",
+    "PPO",
+    "SAC",
+    "MADDPG",
+    "AB-QMIX",
+    "ABPO"
+  ],
+  "reference_method": "Beam Sweep",
+  "trajectory_episodes": 20,
+  "trajectory_steps": 60,
+  "robustness_enabled": false,
+  "trajectory_evaluations": 300,
+  "communication_evaluations": 2100,
+  "paired_configurations_per_seed": 700,
+  "total_paired_evaluations": 2100,
+  "figure_dpi": 300
+}
